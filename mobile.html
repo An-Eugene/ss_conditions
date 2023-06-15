@@ -5,21 +5,23 @@
   </head>
   <body>
     <h1>Tap on lines to copy</h1>
-    <div id="mobile-lines"></div>
+    <div id="mobile-lines" onclick="event.preventDefault(); navigator.clipboard.writeText(document.getElementById('mobile-lines').textContent).then(()=>{alert('Done!');});"></div>
     <script>
       window.addEventListener('DOMContentLoaded', function() {
         let scriptElement = document.createElement('script');
         scriptElement.src = "/ss_conditions/ss_conditions.pac";
+        
         setTimeout(() => {
           // console.log(__BLOCKEDSITES__);
           let lines_for_mobile = ""
           for (let site of __BLOCKEDSITES__) {
-            lines_for_mobile += (site.startsWith("*") ? "(?:^|\\.)" : "^") + site.replace(/\./g, "\\.").replace(/^\*\\\./, "") + "$" + "\n";
+            lines_for_mobile += (site.startsWith("*") ? "(?:^|\\.)" : "^") + site.replace(/\./g, "\\.").replace(/^\*\\\./, "") + "$" + "<br>";
           }
           lines_for_mobile = lines_for_mobile.slice(0, -1);
           let output = document.getElementById("mobile-lines");
           output.innerHTML = lines_for_mobile;
         }, 1000);
+        
         document.body.appendChild(scriptElement);
       });
     </script>
