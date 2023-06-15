@@ -1,13 +1,18 @@
 <html>
   <head>
     <title>ss_conditions for phone</title>
-    <script src="/ss_conditions/ss_conditions.pac" />
+    <!--<script src="/ss_conditions/ss_conditions.pac" />-->
   </head>
   <body>
     <h1>Hello world!</h1>
-    <script defer>
+    <script>
       window.addEventListener('DOMContentLoaded', function() {
-        console.log(window.__BLOCKEDSITES__);
+        let scriptElement = document.createElement('script');
+        scriptElement.src = "/ss_conditions/ss_conditions.pac";
+        setTimeout(() => {
+          console.log(__BLOCKEDSITES__);
+        }, 1000);
+        window.body.appendChild(scriptElement);
       });
     </script>
   </body>
