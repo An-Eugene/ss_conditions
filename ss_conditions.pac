@@ -58,7 +58,7 @@ var FindProxyForURL = function(init, profiles) {
     },
     "+proxy": function(url, host, scheme) {
         "use strict";
-        if (/^127\.0\.0\.1$/.test(host) || /^::1$/.test(host) || /^localhost$/.test(host)) {
+        if (/^127\.0\.0\.1$/.test(host) || /^::1$/.test(host) || /^localhost$/.test(host) || /^192\.168\.[0-9]{1-3}\.[0-9]{1-3}$/.test(host)) {
             return direct;
         }
         return proxy;
