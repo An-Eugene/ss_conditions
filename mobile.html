@@ -15,6 +15,16 @@
         font-weight:bold;
         background-color: #1a1919;
       }
+      h1 {
+        font-size: 3rem;
+        font-weight:900;
+        color:#f18550;
+      }
+      h2 {
+        font-size:2.5rem;
+        font-weight:bold;
+        color: #b874f8;
+      }
       #mobile-lines {
         font-size:2rem;
         background-color: #363434;
@@ -27,6 +37,7 @@
   </head>
   <body>
     <h1>Tap on lines to copy</h1>
+    <h2>Don't forget to delete previous records or records will be duplicated</h2>
     <div id="mobile-lines" onclick="event.preventDefault(); navigator.clipboard.writeText(document.getElementById('mobile-lines').textContent).then(()=>{alert('Done!');});"></div>
     <script>
       window.addEventListener('DOMContentLoaded', function() {
