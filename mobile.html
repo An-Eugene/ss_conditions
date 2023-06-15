@@ -39,7 +39,7 @@
   </head>
   <body>
     <h1>Tap on lines to copy</h1>
-    <h2>Don't forget to delete previous records or records will be <span style="color:red;text-decoration:underline;text-decoration-color:#efe7d0;">duplicated</span></h2>
+    <h2>Don't forget to delete previous records or records will be <span style="color:red;text-decoration:underline;text-decoration-color:#efe7d0;">duplicated</span>!</h2>
     <div id="mobile-lines" onclick="event.preventDefault(); navigator.clipboard.writeText(document.getElementById('mobile-lines').textContent).then(()=>{alert('Done!');});"></div>
     <script>
       window.addEventListener('DOMContentLoaded', function() {
