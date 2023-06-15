@@ -24,9 +24,6 @@ var __BLOCKEDSITES__ = [
     "*.hostinger.com",
 ];
 
-console.log(__BLOCKEDSITES__);
-console.log("Pogpryg");
-
 var proxy;
 var direct;
 
