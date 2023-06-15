@@ -17,7 +17,7 @@
             lines_for_mobile += (site.startsWith("*") ? "(?:^|\\.)" : "^") + site.replace(/\./g, "\\.").replace(/^\*\\\./, "") + "$" + "\n";
           }
           lines_for_mobile = lines_for_mobile.slice(0, -1);
-          let output = document.getElementByID("mobile-lines");
+          let output = document.getElementById("mobile-lines");
           output.innerHTML = lines_for_mobile;
         }, 1000);
         document.body.appendChild(scriptElement);
