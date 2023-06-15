@@ -35,6 +35,10 @@
         margin-top:1rem;
         width:auto;
         min-width:10rem;
+        transition-delay: 0s;
+        transition: width 1s;
+        transition-delay: 1s;
+        transition: height 1s;
     </style>
   </head>
   <body>
@@ -55,7 +59,7 @@
           lines_for_mobile = lines_for_mobile.slice(0, -1);
           let output = document.getElementById("mobile-lines");
           output.innerHTML = lines_for_mobile;
-        }, 1000);
+        }, 500);
         
         document.body.appendChild(scriptElement);
       });
