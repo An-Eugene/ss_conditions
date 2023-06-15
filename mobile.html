@@ -13,7 +13,7 @@
         setTimeout(() => {
           console.log(__BLOCKEDSITES__);
           let lines_for_mobile = ""
-          for (let site in __BLOCKEDSITES__) {
+          for (let site of __BLOCKEDSITES__) {
             lines_for_mobile += (site.startsWith("*") ? "(?:^|\\.)" : "^") + site.replace(/\./g, "\\.").replace(/^\*\\\./, "") + "$" + "\n";
           }
           lines_for_mobile = lines_for_mobile.slice(0, -1);
