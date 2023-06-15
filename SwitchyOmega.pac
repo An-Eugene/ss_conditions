@@ -22,8 +22,19 @@ var __BLOCKEDSITES__ = [
     "*.exler.ru",
     "*.medium.com",
     "*.hostinger.com",
-    "*.2ip.ua"
 ];
+
+
+var proxy;
+var direct;
+
+if (typeof __PROXY__ === "undefined") {
+    proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080";
+    direct = "DIRECT";
+} else {
+    proxy = __PROXY__;
+    direct = "DIRECT;";
+}
 
 var FindProxyForURL = function(init, profiles) {
     return function(url, host) {
@@ -48,8 +59,8 @@ var FindProxyForURL = function(init, profiles) {
     "+proxy": function(url, host, scheme) {
         "use strict";
         if (/^127\.0\.0\.1$/.test(host) || /^::1$/.test(host) || /^localhost$/.test(host)) {
-            return "DIRECT";
+            return direct;
         }
-        return "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080";
+        return proxy;
     }
 });
