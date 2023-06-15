@@ -1,27 +1,28 @@
 var __BLOCKEDSITES__ = [
-"yt3.ggpht.com",
-"play.google.com",
-"*.twitter.com",
-"*.t.co",
-"*.twimg.com",
-"*.facebook.com",
-"*.m.me",
-"*.fbcdn.net",
-"*.instagram.com",
-"*.cdninstagram.com",
-"*.rutracker.org",
-"*.rutor.is",
-"*.flibusta.is",
-"*.intel.com",
-"*.spotify.com",
-"*.quora.com",
-"*.openai.com",
-"*.jsfiddle.net",
-"*.saverudata.net",
-"*.gagadget.com",
-"*.exler.ru",
-"*.medium.com",
-"*.hostinger.com"
+    "yt3.ggpht.com",  // YouTube avatars
+    "play.google.com",
+    "*.twitter.com",  // Twitter
+    "*.t.co",  // Twitter short links
+    "*.twimg.com",  // Twitter CDN
+    "*.facebook.com",  // Facebook
+    "*.m.me",  // Facebook short links
+    "*.fbcdn.net",  // Facebook CDN
+    "*.instagram.com",  // Instagram
+    "*.cdninstagram.com",  // Instagram CDN
+    "*.rutracker.org",  // torrents
+    "*.rutor.is",  // torrents
+    "*.flibusta.is",  // torrents
+    "*.intel.com",  // Fix "not supported in your country"
+    "*.spotify.com",
+    "*.quora.com",
+    "*.openai.com",
+    "*.jsfiddle.net",
+    "*.saverudata.net",
+    "*.gagadget.com",
+    "*.exler.ru",
+    "*.medium.com",
+    "*.hostinger.com",
+    "*.2ip.ua"
 ];
 
 var FindProxyForURL = function(init, profiles) {
