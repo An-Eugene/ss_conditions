@@ -22,6 +22,7 @@ var __BLOCKEDSITES__ = [
     "*.exler.ru",
     "*.medium.com",
     "*.hostinger.com",
+    "*.linkedin.com"
 ];
 
 var proxy;
