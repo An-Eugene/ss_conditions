@@ -25,12 +25,12 @@ echo "[proxy_list]" >> ../ss_conditions.acl
 
 mapfile -t lines < rules_proxy
 for line in "${lines[@]}"; do
-    if [[ $line == *.*.*.* || $line != *.* ]]; then
+    if [[ $line == *.*.*.* ]]; then
         transformed_line="$line"
     elif [[ $line == *.*.* ]]; then
-        transformed_line="^$line$"
+        transformed_line="^${line//./\\.}$"
     elif [[ $line == *.* ]]; then
-        transformed_line="(?:^|\.)$line$"
+        transformed_line="(?:^|\\.)${line//./\\.}$"
     else
         transformed_line="$line"
     fi
@@ -42,12 +42,12 @@ echo "[bypass_list]" >> ../ss_conditions.acl
 
 mapfile -t lines < rules_direct
 for line in "${lines[@]}"; do
-    if [[ $line == *.*.*.* || $line != *.* ]]; then
+    if [[ $line == *.*.*.* ]]; then
         transformed_line="$line"
     elif [[ $line == *.*.* ]]; then
-        transformed_line="^$line$"
+        transformed_line="^${line//./\\.}$"
     elif [[ $line == *.* ]]; then
-        transformed_line="(?:^|\.)$line$"
+        transformed_line="(?:^|\\.)${line//./\\.}$"
     else
         transformed_line="$line"
     fi
