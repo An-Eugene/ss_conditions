@@ -24,7 +24,7 @@ var __BLOCKEDSITES__ = [
   "*.t.co",
   "*.twimg.com",
   "*.twitter.com",
-  "*.windscribe.com",
+  "*.windscribe.com"
 ];
 
 var proxy;
