@@ -1,0 +1,21 @@
+name: Execute deploy.sh
+
+on:
+  push:
+    paths:
+      - 'rules/rules_direct'
+      - 'rules/rules_proxy'
+
+jobs:
+  execute_script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Execute deploy.sh
+        run: |
+          cd rules
+          chmod +x deploy.sh
+          ./deploy.sh
