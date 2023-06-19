@@ -19,3 +19,12 @@ jobs:
           cd rules
           chmod +x deploy.sh
           ./deploy.sh
+
+      - name: Push changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add .
+          git reset rules/
+          git commit -m "Update files"
+          git push
