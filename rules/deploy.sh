@@ -1,2 +1,2 @@
 #! /bin/bash
-echo "Hello" > test.txt
+echo "Hello" > ../test.txt
