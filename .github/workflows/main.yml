@@ -13,8 +13,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-          with:
-            token: ${{ secrets.PAT }}
+        with:
+          token: ${{ secrets.PAT }}
 
       - name: Execute deploy.sh
         run: |
