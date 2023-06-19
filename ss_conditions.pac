@@ -1,31 +1,4 @@
 var __BLOCKEDSITES__ = [
-    "yt3.ggpht.com",  // YouTube avatars
-    "play.google.com",
-    "*.twitter.com",  // Twitter
-    "*.t.co",  // Twitter short links
-    "*.twimg.com",  // Twitter CDN
-    "*.facebook.com",  // Facebook
-    "*.m.me",  // Facebook short links
-    "*.fbcdn.net",  // Facebook CDN
-    "*.instagram.com",  // Instagram
-    "*.cdninstagram.com",  // Instagram CDN
-    "*.rutracker.org",  // torrents
-    "*.rutor.is",  // torrents
-    "*.flibusta.is",  // torrents
-    "*.intel.com",  // Fix "not supported in your country"
-    "*.spotify.com",
-    "*.quora.com",
-    "*.openai.com",
-    "*.jsfiddle.net",
-    "*.saverudata.net",
-    "*.gagadget.com",
-    "*.exler.ru",
-    "*.medium.com",
-    "*.hostinger.com",
-    "*.linkedin.com",
-    "*.svoboda.org",
-    "*.windscribe.com"
-];
 
 var proxy;
 var direct;
