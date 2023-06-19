@@ -1,4 +1,4 @@
-name: Execute deploy.sh
+name: Update all files
 
 on:
   push:
