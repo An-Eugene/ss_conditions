@@ -17,4 +17,4 @@ done
 echo "];" >> out1.txt
 
 # Append the content of file 2.txt to out1.txt
-cat ../template/ss_conditions_template.pac >> ../ss_conditions.pac
+cat ../templates/ss_conditions_template.pac >> ../ss_conditions.pac
