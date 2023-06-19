@@ -18,7 +18,7 @@ jobs:
 
       - name: Execute deploy.sh
         run: |
-          cd rules
+          cd .github
           chmod +x deploy.sh
           ./deploy.sh
 
@@ -27,8 +27,8 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add .
-          git reset rules/
-          git restore rules/deploy.sh
+          git reset .github/
+          git restore .github/deploy.sh
           git clean -df
           git commit -m "Update files"
           git push
