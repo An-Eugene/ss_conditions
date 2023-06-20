@@ -55,7 +55,7 @@ for line in "${lines[@]}"; do
 done
 
 
-echo "" > ../ss_conditions.conf
+echo -n "" > ../ss_conditions.conf
 mapfile -t lines < ../rules/rules_proxy
 for line in "${lines[@]}"; do
     if [[ $line == *.*.*.* ]]; then
