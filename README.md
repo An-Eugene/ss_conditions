@@ -1,6 +1,8 @@
 # RU
 Данные файлы предназначены для настройки маршрутизации:
-* [Shadowsocks для Windows](https://github.com/shadowsocks/shadowsocks-windows/releases/latest "Shadowsocks github repo") 
+* [Shadowsocks для Windows](https://github.com/shadowsocks/shadowsocks-windows/releases/latest "Shadowsocks github repo")
+* ~~[Shadowsocks для Linux](https://snapcraft.io/shadowsocks-electron "Shadowsocks-electron on snapcraft")~~
+* ~~Shadowsocks для MacOS~~
 * [Расширения для браузера SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif "SwitchyOmega for Google Chrome")
 * [Shadowsocks для Android](https://play.google.com/store/apps/details?id=com.github.shadowsocks "Shadowsocks in Google Play")
 * [Shadowlink для iOS](https://apps.apple.com/us/app/shadowlink-shadowsocks-proxy/id1439686518) (временно не автоматизировано)
@@ -13,6 +15,10 @@
 3. У системного прокси сервера включить режим работы - Сценарий настройки (PAC)
 
 Ссылка на PAC файл: https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions.pac
+
+## Shadowsocks для Linux
+1. Установить Shadowsocks-electron: `sudo snap install shadowsocks-electron`
+TODO: дописать и отладить работу SS на Linux
 
 ## Proxy SwitchyOmega для браузера
 1. Установить [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases/latest "Shadowsocks github repo") из официального репозитория и прописать сервер
@@ -46,10 +52,13 @@
 ## Shadowlink для iOS
 1. Установить [Shadowlink из AppStore](https://apps.apple.com/us/app/shadowlink-shadowsocks-proxy/id1439686518). **Отказаться от всех навязываемых подписок и пробных периодов**: нас не интересуют сервера по умолчанию, мы добавляем собственную конфигурацию
 2. Прописать собственный сервер. К сожалению, в отличие от SS для ПК и Android, данное приложение требует QR код. Для этого просто загоняем ссылку вида ss://<base64_info> в генератор QR кодов на компьютере, а потом сканируем с айфона конфигурацию
-3. Заходим в Proxy Rule, создаём свою конфигурацию
-4. Прописываем правило FINAL -> DIRECT, остальные правила должны быть вида DOMAIN-SUFFIX.
+3. Заходим в Proxy Rule, импортируем файл конфигурации
 
-К сожалению, в виду отсутствия девайса, нормально отладить импорт правил для устройств Apple пока не вышло. Возможно, в будущем добавлю поддержку Apple.
+Ссылка на файл конфигурации: https://github.com/An-Eugene/ss_conditions/raw/main/ss_conditions.conf
+
+**Внимание**: ввиду ограничений платформы, файл настройки здесь не удалённый и требует ручного скачивания каждый раз, когда список обновляется
+
+К сожалению, в виду отсутствия девайса, нормально отладить импорт правил для устройств Apple пока не вышло. Возможно, в будущем добавлю нормальное решение, если найду.
 
 # EN
 TODO: write description in english
