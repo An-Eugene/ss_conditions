@@ -6,7 +6,7 @@
 Такая настройка обеспечивает лёгкость работы в интернете, но ***не обеспечивает анонимность***. Если вам необходима анонимность - используйте клиенты VPN, полностью маршрутизирующие весь трафик, с функцией killswitch. Или форкайте данный репозиторий под себя и самостоятельно настраивайте его по принципу whitelist.
 
 На текущий момент здесь есть настройки для:
-* [Shadowsocks для Windows](https://github.com/shadowsocks/shadowsocks-windows/releases/latest "Shadowsocks github repo")
+* [Shadowsocks для Windows](#shadowsocks-для-windows)
 * ~~[Shadowsocks для Linux](https://snapcraft.io/shadowsocks-electron "Shadowsocks-electron on snapcraft")~~
 * ~~Shadowsocks для MacOS~~
 * [Расширения для браузера SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif "SwitchyOmega for Google Chrome")
