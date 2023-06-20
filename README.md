@@ -63,10 +63,10 @@ TODO: дописать и отладить работу SS на Linux
 ## Shadowlink для iOS
 1. Установить [Shadowlink из AppStore](https://apps.apple.com/us/app/shadowlink-shadowsocks-proxy/id1439686518 "Shadowlink for iOS"). **Отказаться от всех навязываемых подписок и пробных периодов**: нас не интересуют сервера по умолчанию, мы добавляем собственную конфигурацию
 2. Прописать собственный сервер. К сожалению, в отличие от SS для ПК и Android, данное приложение требует QR код. Для этого просто загоняем ссылку вида ss://<base64_info> в [генератор QR кодов](https://webqr.com/create.html) на компьютере, а потом сканируем с айфона конфигурацию
-3. Заходим в Proxy Rule, импортируем файл конфигурации
+3. Заходим в Proxy Rule, импортируем CONF файл конфигурации
 
 
-Ссылка на файл конфигурации: <a href="https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions.conf" download="ss_conditions.conf" target="_blank">скачать</a>
+Ссылка на CONF файл: https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions.conf
 
 **Внимание**: ввиду ограничений платформы, файл настройки здесь не удалённый и требует ручного скачивания каждый раз, когда список обновляется
 
