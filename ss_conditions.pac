@@ -13,6 +13,7 @@ var __BLOCKEDSITES__ = [
   "*.intel.com",
   "*.jsfiddle.net",
   "*.linkedin.com",
+  "*.lolz.guru",
   "*.m.me",
   "*.medium.com",
   "*.meduza.io",
