@@ -8,7 +8,7 @@
 На текущий момент здесь есть настройки для:
 * [Shadowsocks для Windows](#shadowsocks-для-windows)
 * ~~[Shadowsocks для Linux](#shadowsocks-для-linux)~~
-* ~~Shadowsocks для MacOS~~
+* ~~Shadowsocks для MacOS(#shadowsocks-для-macos)~~
 * [Расширения для браузера SwitchyOmega](#proxy-switchyomega-для-браузера)
 * [Shadowsocks для Android](#shadowsocks-для-android)
 * [Shadowlink для iOS](#shadowlink-для-ios) (временно не автоматизировано)
@@ -24,8 +24,12 @@
 
 ## Shadowsocks для Linux
 1. Установить Shadowsocks-electron: `sudo snap install shadowsocks-electron`
+2. Прописать PAC файл, если он вообще работает
 
 TODO: дописать и отладить работу SS на Linux
+
+## ~~Shadowsocks для MacOS~~
+1. ~~Установить [Shadowsocks](https://github.com/shadowsocks/ShadowsocksX-NG)~~
 
 ## Proxy SwitchyOmega для браузера
 1. Установить [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases/latest "Shadowsocks github repo") из официального репозитория и прописать сервер
