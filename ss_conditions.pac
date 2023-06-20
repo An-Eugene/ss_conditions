@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "*.4pda.ru",
   "*.cdninstagram.com",
   "*.exler.ru",
   "*.facebook.com",
