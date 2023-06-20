@@ -62,7 +62,7 @@ TODO: дописать и отладить работу SS на Linux
 3. Заходим в Proxy Rule, импортируем файл конфигурации
 
 
-Ссылка на файл конфигурации: <a href="https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions.conf" download="ss_conditions.conf">скачать</a>
+Ссылка на файл конфигурации: <a href="https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions.conf" download="ss_conditions.conf" target="_blank">скачать</a>
 
 **Внимание**: ввиду ограничений платформы, файл настройки здесь не удалённый и требует ручного скачивания каждый раз, когда список обновляется
 
