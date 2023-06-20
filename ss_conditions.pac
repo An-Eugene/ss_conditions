@@ -17,6 +17,7 @@ var __BLOCKEDSITES__ = [
   "*.m.me",
   "*.medium.com",
   "*.meduza.io",
+  "*.microsoft.com",
   "*.navalny.com",
   "*.openai.com",
   "*.quora.com",
