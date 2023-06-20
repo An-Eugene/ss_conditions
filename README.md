@@ -18,6 +18,7 @@
 
 ## Shadowsocks для Linux
 1. Установить Shadowsocks-electron: `sudo snap install shadowsocks-electron`
+
 TODO: дописать и отладить работу SS на Linux
 
 ## Proxy SwitchyOmega для браузера
