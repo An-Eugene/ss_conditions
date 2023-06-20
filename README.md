@@ -8,7 +8,7 @@
 На текущий момент здесь есть настройки для:
 * [Shadowsocks для Windows](#shadowsocks-для-windows)
 * ~~[Shadowsocks для Linux](#shadowsocks-для-linux)~~
-* ~~Shadowsocks для MacOS(#shadowsocks-для-macos)~~
+* ~~[Shadowsocks для MacOS](#shadowsocks-для-macos)~~
 * [Расширения для браузера SwitchyOmega](#proxy-switchyomega-для-браузера)
 * [Shadowsocks для Android](#shadowsocks-для-android)
 * [Shadowlink для iOS](#shadowlink-для-ios) (временно не автоматизировано)
