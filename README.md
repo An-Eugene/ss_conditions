@@ -1,5 +1,9 @@
 # RU
-Данные файлы предназначены для настройки маршрутизации:
+
+## О проекте
+Данные инструкции и файлы предназначены для маршрутизации трафика при использовании сервера Shadowsocks или [Outline](https://getoutline.org/ru/ "Download Outline"). Файлы строились по принципу blacklist: всё, что не указано в списке, маршрутизируется напрямую. Это обеспечивает одновременно быструю работу не заблокированных сервисов, бесперебойную работу сервисов, ограниченных GeoIP (Госуслуги, Авито и т. д.), и одновременно работу сервисов, заблокированных на территории РФ. Такая настройка обеспечивает лёгкость работы в интернете, но ***не обеспечивает анонимность***. Если вам необходима анонимность - используйте клиенты VPN, полностью маршрутизирующие весь трафик, с функцией killswitch. Или форкайте данный репозиторий под себя и самостоятельно настраивайте его по принципу whitelist.
+
+На текущий момент здесь есть настройки для:
 * [Shadowsocks для Windows](https://github.com/shadowsocks/shadowsocks-windows/releases/latest "Shadowsocks github repo")
 * ~~[Shadowsocks для Linux](https://snapcraft.io/shadowsocks-electron "Shadowsocks-electron on snapcraft")~~
 * ~~Shadowsocks для MacOS~~
@@ -7,7 +11,7 @@
 * [Shadowsocks для Android](https://play.google.com/store/apps/details?id=com.github.shadowsocks "Shadowsocks in Google Play")
 * [Shadowlink для iOS](https://apps.apple.com/us/app/shadowlink-shadowsocks-proxy/id1439686518) (временно не автоматизировано)
 
-Так как сценарий настройки удалённый, любые изменения в списке сценариев синхронизируются с программой на ПК, приложением на Android или с расширением для браузера.
+Так как сценарий настройки удалённый, любые изменения в списке сценариев синхронизируются с программой на ПК, приложением на Android или с расширением для браузера **(кроме персонально указанных инструкций)**.
 
 ## Shadowsocks для Windows
 1. Установить [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases/latest "Shadowsocks github repo")  из официального репозитория и прописать сервер
