@@ -1,4 +1,4 @@
-# RU
+# RU / [EN](#en)
 
 ## О проекте
 Данные инструкции и файлы предназначены для маршрутизации трафика при использовании чистого сервера Shadowsocks или [Outline](https://getoutline.org/ru/ "Download Outline"). Указанные инструкции могут быть недействительны, а клиенты могут не поддерживать работу с вашим сервером, если он использует плагины, вроде v2ray и так далее: в этом случае ищите способы и клиенты самостоятельно. 
@@ -7,11 +7,11 @@
 
 На текущий момент здесь есть настройки для:
 * [Shadowsocks для Windows](#shadowsocks-для-windows)
-* ~~[Shadowsocks для Linux](https://snapcraft.io/shadowsocks-electron "Shadowsocks-electron on snapcraft")~~
+* ~~[Shadowsocks для Linux](#shadowsocks-для-linux)~~
 * ~~Shadowsocks для MacOS~~
-* [Расширения для браузера SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif "SwitchyOmega for Google Chrome")
-* [Shadowsocks для Android](https://play.google.com/store/apps/details?id=com.github.shadowsocks "Shadowsocks in Google Play")
-* [Shadowlink для iOS](https://apps.apple.com/us/app/shadowlink-shadowsocks-proxy/id1439686518) (временно не автоматизировано)
+* [Расширения для браузера SwitchyOmega](#proxy-switchyomega-для-браузера)
+* [Shadowsocks для Android](#shadowsocks-для-android)
+* [Shadowlink для iOS](#shadowlink-для-ios) (временно не автоматизировано)
 
 Так как сценарий настройки удалённый, любые изменения в списке сценариев синхронизируются с программой на ПК, приложением на Android или с расширением для браузера **(кроме персонально указанных инструкций)**.
 
@@ -57,7 +57,7 @@ TODO: дописать и отладить работу SS на Linux
 Ссылка на ACL файл: https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions.acl
 
 ## Shadowlink для iOS
-1. Установить [Shadowlink из AppStore](https://apps.apple.com/us/app/shadowlink-shadowsocks-proxy/id1439686518). **Отказаться от всех навязываемых подписок и пробных периодов**: нас не интересуют сервера по умолчанию, мы добавляем собственную конфигурацию
+1. Установить [Shadowlink из AppStore](https://apps.apple.com/us/app/shadowlink-shadowsocks-proxy/id1439686518 "Shadowlink for iOS"). **Отказаться от всех навязываемых подписок и пробных периодов**: нас не интересуют сервера по умолчанию, мы добавляем собственную конфигурацию
 2. Прописать собственный сервер. К сожалению, в отличие от SS для ПК и Android, данное приложение требует QR код. Для этого просто загоняем ссылку вида ss://<base64_info> в генератор QR кодов на компьютере, а потом сканируем с айфона конфигурацию
 3. Заходим в Proxy Rule, импортируем файл конфигурации
 
