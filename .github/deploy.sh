@@ -53,3 +53,25 @@ for line in "${lines[@]}"; do
     fi
     echo "$transformed_line" >> ../ss_conditions.acl
 done
+
+
+echo "" > ../ss_conditions.conf
+mapfile -t lines < ../rules/rules_proxy
+for line in "${lines[@]}"; do
+    if [[ $line == *.*.*.* ]]; then
+        transformed_line="IP-CIDR,$line,PROXY"
+    else
+        transformed_line="DOMAIN-SUFFIX,$line,PROXY"
+    fi
+    echo "$transformed_line" >> ../ss_conditions.conf
+done
+mapfile -t lines < ../rules/rules_direct
+for line in "${lines[@]}"; do
+    if [[ $line == *.*.*.* ]]; then
+        transformed_line="IP-CIDR,$line,DIRECT"
+    else
+        transformed_line="DOMAIN-SUFFIX,$line,DIRECT"
+    fi
+    echo "$transformed_line" >> ../ss_conditions.conf
+done
+echo "FINAL,DIRECT" >> ../ss_conditions.conf
