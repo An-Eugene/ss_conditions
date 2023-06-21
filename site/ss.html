@@ -40,6 +40,8 @@
           var downloadLink = document.getElementById("downloadLink");
           downloadLink.href = url;
           downloadLink.download = modifiedFileName;
+
+          downloadLink.click();
         })
         .catch(error => {
           console.error('Error:', error);
