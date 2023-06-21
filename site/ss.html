@@ -22,6 +22,29 @@
     }
   </style>
   <body>
-    <a class="download_button" href="https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions.conf" download="ss.conf">Нажмите, чтобы скачать файл</a> 
+    <!--<a class="download_button" href="https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions.conf" download="ss.conf">Нажмите, чтобы скачать файл</a>--> 
+    <a class="download_button" id="downloadLink" href="#" onclick="downloadModifiedFile()">Download modified file</a>
+
+  <script>
+    function downloadModifiedFile() {
+      var originalFileUrl = "https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions.conf";
+      var modifiedFileName = "ss_conditions.conf";
+
+      fetch(originalFileUrl)
+        .then(response => response.text())
+        .then(fileContent => {
+          var modifiedContent = fileContent;
+          var blob = new Blob([modifiedContent], { type: 'text/plain' });
+          var url = URL.createObjectURL(blob);
+
+          var downloadLink = document.getElementById("downloadLink");
+          downloadLink.href = url;
+          downloadLink.download = modifiedFileName;
+        })
+        .catch(error => {
+          console.error('Error:', error);
+        });
+    }
+  </script>
   </body>
 </html>
