@@ -67,6 +67,7 @@ TODO: дописать и отладить работу SS на Linux
 
 
 Ссылка на CONF файл: https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions.conf
+Ссылка на скачивание файла: https://an-eugene.github.io/ss_conditions/site/ss.html
 
 **Внимание**: ввиду ограничений платформы, файл настройки здесь не удалённый и требует ручного скачивания каждый раз, когда список обновляется
 
