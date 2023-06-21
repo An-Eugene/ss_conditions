@@ -5,6 +5,7 @@ var __BLOCKEDSITES__ = [
   "*.facebook.com",
   "*.fbcdn.net",
   "*.flibusta.is",
+  "*.foxitsoftware.com",
   "*.gagadget.com",
   "yt3.ggpht.com",
   "play.google.com",
