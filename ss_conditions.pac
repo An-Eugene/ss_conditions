@@ -97,6 +97,7 @@ var __BLOCKEDSITES__ = [
   "*.realist.online",
   "*.republic.ru",
   "*.rezonans.media",
+  "*.rferl.org",
   "*.roar-review.com",
   "*.root-nation.com",
   "*.rutor.is",
