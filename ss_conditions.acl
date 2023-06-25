@@ -6,7 +6,7 @@
 ^9tv\.co\.il$
 (?:^|\.)activatica\.org$
 (?:^|\.)agents\.media$
-(?:^|\.)appspot\.com$
+^*\.appspot\.com$
 (?:^|\.)arbat\.media$
 (?:^|\.)azathabar\.com$
 (?:^|\.)azattyq\.com$
