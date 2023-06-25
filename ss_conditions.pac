@@ -61,6 +61,7 @@ var __BLOCKEDSITES__ = [
   "*.kavkazr.com",
   "*.korrespondent.net",
   "*.krymr.com",
+  "*.kym-cdn.com",
   "*.lentachel.ru",
   "*.linkedin.com",
   "*.locals.md",
