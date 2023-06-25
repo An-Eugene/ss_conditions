@@ -4,7 +4,7 @@
 mapfile -t lines < ../rules/rules_proxy
 for ((i=0; i<${#lines[@]}; i++)); do
     line=${lines[i]}
-    if [[ $line == *.* && $line != *.*.* ]]; then
+    if [[ $line == *.* && $line != *.*.* && ${line:0:2} != '*.' ]]; then
         lines[i]="*.$line"
     fi
 done
@@ -25,9 +25,9 @@ echo "[proxy_list]" >> ../ss_conditions.acl
 
 mapfile -t lines < ../rules/rules_proxy
 for line in "${lines[@]}"; do
-    if [[ $line == *.*.*.* ]]; then
+    if [[ $line == *.*.*.* && ${line:0:2} != '*.' ]]; then
         transformed_line="$line"
-    elif [[ $line == *.*.* ]]; then
+    elif [[ $line == *.*.* && ${line:0:2} != '*.' ]]; then
         transformed_line="^${line//./\\.}$"
     elif [[ $line == *.* ]]; then
         transformed_line="(?:^|\\.)${line//./\\.}$"
@@ -58,7 +58,7 @@ done
 echo -n "" > ../ss_conditions.conf
 mapfile -t lines < ../rules/rules_proxy
 for line in "${lines[@]}"; do
-    if [[ $line == *.*.*.* ]]; then
+    if [[ $line == *.*.*.* && ${line:0:2} != '*.' ]]; then
         transformed_line="IP-CIDR,$line,PROXY"
     else
         transformed_line="DOMAIN-SUFFIX,$line,PROXY"
@@ -67,7 +67,7 @@ for line in "${lines[@]}"; do
 done
 mapfile -t lines < ../rules/rules_direct
 for line in "${lines[@]}"; do
-    if [[ $line == *.*.*.* ]]; then
+    if [[ $line == *.*.*.* && ${line:0:2} != '*.' ]]; then
         transformed_line="IP-CIDR,$line,DIRECT"
     else
         transformed_line="DOMAIN-SUFFIX,$line,DIRECT"
