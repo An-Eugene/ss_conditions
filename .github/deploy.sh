@@ -42,9 +42,9 @@ echo "[bypass_list]" >> ../ss_conditions.acl
 
 mapfile -t lines < ../rules/rules_direct
 for line in "${lines[@]}"; do
-    if [[ $line == *.*.*.* ]]; then
+    if [[ $line == *.*.*.* && ${line:0:2} != '*.' ]]; then
         transformed_line="$line"
-    elif [[ $line == *.*.* ]]; then
+    elif [[ $line == *.*.* && ${line:0:2} != '*.' ]]; then
         transformed_line="^${line//./\\.}$"
     elif [[ $line == *.* ]]; then
         transformed_line="(?:^|\\.)${line//./\\.}$"
