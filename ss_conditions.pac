@@ -144,6 +144,7 @@ var __BLOCKEDSITES__ = [
   "*.vot-tak.tv",
   "*.welt.de",
   "*.windscribe.com",
+  "*.wixmp.com",
   "*.wonderzine.com",
   "*.yle.fi",
   "*.zahav.ru",
