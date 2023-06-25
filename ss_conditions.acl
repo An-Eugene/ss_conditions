@@ -45,6 +45,7 @@
 ^yt3\.ggpht\.com$
 ^news\.google\.com$
 ^play\.google\.com$
+(?:^|\.)hdrezka\.ag$
 (?:^|\.)holod\.media$
 (?:^|\.)hostinger\.com$
 (?:^|\.)hs\.fi$
@@ -98,6 +99,7 @@
 (?:^|\.)quora\.com$
 (?:^|\.)realist\.online$
 (?:^|\.)republic\.ru$
+(?:^|\.)rezka\.ag$
 (?:^|\.)rezonans\.media$
 (?:^|\.)rferl\.org$
 (?:^|\.)roar-review\.com$
