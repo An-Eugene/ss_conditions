@@ -6,12 +6,12 @@
 ^9tv\.co\.il$
 (?:^|\.)activatica\.org$
 (?:^|\.)agents\.media$
-^*\.appspot\.com$
+(?:^|\.)appspot\.com$
 (?:^|\.)arbat\.media$
 (?:^|\.)azathabar\.com$
 (?:^|\.)azattyq\.com$
 (?:^|\.)bbc\.com$
-*.bbci.co.uk
+(?:^|\.)*\.bbci\.co\.uk$
 (?:^|\.)bellingcar\.com$
 (?:^|\.)blackseanews\.net$
 (?:^|\.)cdninstagram\.com$

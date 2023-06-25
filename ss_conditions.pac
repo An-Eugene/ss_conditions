@@ -1,5 +1,5 @@
 var __BLOCKEDSITES__ = [
-  "*.*.ua",
+  "*.ua",
   "*.4pda.ru",
   "9tv.co.il",
   "*.activatica.org",
