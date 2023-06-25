@@ -9,7 +9,7 @@ var __BLOCKEDSITES__ = [
   "*.azathabar.com",
   "*.azattyq.com",
   "*.bbc.com",
-  "bbci.co.uk",
+  "*.bbci.co.uk",
   "*.bellingcar.com",
   "*.blackseanews.net",
   "*.cdninstagram.com",
