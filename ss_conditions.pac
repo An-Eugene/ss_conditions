@@ -92,6 +92,7 @@ var __BLOCKEDSITES__ = [
   "*.ozodi.org",
   "*.pap.pl",
   "*.paperpaper.ru",
+  "*.paperpaper.io",
   "*.politiken.dk",
   "*.posle.media",
   "*.postimees.ee",
