@@ -73,7 +73,6 @@ var __BLOCKEDSITES__ = [
   "*.meduza.io",
   "*.merezha.co",
   "*.metla.press",
-  "*.microsoft.com",
   "*.mignews.com",
   "echo.msk.ru",
   "*.navalny.com",
