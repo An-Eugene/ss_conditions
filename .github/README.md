@@ -1,4 +1,5 @@
-[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/an-eugene/ss_conditions/blob/master/.github/README-en.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/an-eugene/ss_conditions/blob/master/.github/README.md)
+[![en](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/an-eugene/ss_conditions/blob/master/.github/README-en.md)
 
 ## О проекте
 Данные инструкции и файлы предназначены для маршрутизации трафика при использовании чистого сервера Shadowsocks или [Outline](https://getoutline.org/ru/ "Download Outline"). Указанные инструкции могут быть недействительны, а клиенты могут не поддерживать работу с вашим сервером, если он использует плагины, вроде v2ray и так далее: в этом случае ищите способы и клиенты самостоятельно. 
