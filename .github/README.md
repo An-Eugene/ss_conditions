@@ -1,4 +1,4 @@
-[![ru](https://img.shields.io/badge/language-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-green.svg)](https://github.com/an-eugene/ss_conditions/blob/master/.github/README.md)
+[![ru](https://img.shields.io/badge/language-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-blue.svg)](https://github.com/an-eugene/ss_conditions/blob/master/.github/README.md)
 [![en](https://img.shields.io/badge/language-english-red.svg)](https://github.com/an-eugene/ss_conditions/blob/master/.github/README-en.md)
 
 ## О проекте
