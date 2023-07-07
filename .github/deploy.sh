@@ -67,3 +67,16 @@ for line in "${lines[@]}"; do
     echo "$transformed_line" >> ../ss_conditions.conf
 done
 echo "FINAL,DIRECT" >> ../ss_conditions.conf
+
+# parse rules_proxy and make .CONF file for Shadowlink
+echo -n "" > ../ss_conditions_shadowlink.conf
+mapfile -t lines < ../rules/rules_proxy
+for line in "${lines[@]}"; do
+    if [[ $line == *.*.*.* && ${line:0:2} != '*.' ]]; then
+        transformed_line="IP-CIDR,$line,PROXY"
+    else
+        transformed_line="DOMAIN-SUFFIX,$line,PROXY"
+    fi
+    echo "$transformed_line" >> ../ss_conditions_shadowlink.conf
+done
+echo "FINAL,DIRECT" >> ../ss_conditions_shadowlink.conf
