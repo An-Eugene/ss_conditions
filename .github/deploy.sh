@@ -69,7 +69,7 @@ done
 echo "FINAL,DIRECT" >> ../ss_conditions.conf
 
 # parse rules_proxy and make .CONF file for Shadowlink
-echo -n "" > ../ss_conditions_shadowlink.conf
+echo -n "" > ../ss_conditions_clash.conf
 mapfile -t lines < ../rules/rules_proxy
 for line in "${lines[@]}"; do
     if [[ $line == *.*.*.* && ${line:0:2} != '*.' ]]; then
@@ -77,6 +77,6 @@ for line in "${lines[@]}"; do
     else
         transformed_line="DOMAIN-SUFFIX,$line,PROXY"
     fi
-    echo "$transformed_line" >> ../ss_conditions_shadowlink.conf
+    echo "$transformed_line" >> ../ss_conditions_clash.conf
 done
-echo "FINAL,DIRECT" >> ../ss_conditions_shadowlink.conf
+echo "FINAL,DIRECT" >> ../ss_conditions_clash.conf
