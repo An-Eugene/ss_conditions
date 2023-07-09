@@ -12,8 +12,8 @@
 * ~~[Shadowsocks для MacOS](#shadowsocks-для-macos)~~
 * [Shadowsocks для Android](#shadowsocks-для-android)
 * [Клиент Shadowsocks для iOS](#клиент-shadowsocks-для-ios)
-  - Shadowrocket для iOS
-  - Shadowlink для iOS
+  - [Shadowrocket для iOS](#shadowrocket-для-ios-оптимальное-но-платное-решение)
+  - [Shadowlink для iOS](#shadow-link-для-ios-неавтоматическое-но-бесплатное-решение)
 * [Расширение для браузера SwitchyOmega](#proxy-switchyomega-для-браузера)
 
 Так как сценарий настройки удалённый, любые изменения в списке сценариев синхронизируются с программой на ПК, приложением на Android или с расширением для браузера **(кроме персонально указанных инструкций)**.
@@ -48,8 +48,10 @@ TODO: дописать и отладить работу SS на Linux
 ## Клиент ShadowSocks для iOS
 ### Shadowrocket для iOS (оптимальное, но платное решение)
 1. Купить и установить Shadowrocket из AppStore (250р).
-2. Прописать собственный сервер.
-3. прописать прокси файл
+2. Прописать собственный сервер
+3. Зайти во вкладку "Config" -> Remote files -> указать ссылку на .CONF файл
+
+Ссылка на CONF файл: https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions.conf
 
 ### Shadowlink для iOS (неавтоматическое, но бесплатное решение)
 1. Установить [Shadowlink из AppStore](https://apps.apple.com/us/app/shadowlink-shadowsocks-proxy/id1439686518 "Shadowlink for iOS"). **Отказаться от всех навязываемых подписок и пробных периодов**: нас не интересуют сервера по умолчанию, мы добавляем собственную конфигурацию
@@ -57,7 +59,7 @@ TODO: дописать и отладить работу SS на Linux
 3. Заходим в Proxy Rule, импортируем CONF файл конфигурации
 
 
-Ссылка на CONF файл: https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions.conf
+Ссылка на CONF файл: https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions_clash.conf
 
 Ссылка на скачивание файла: https://an-eugene.github.io/ss_conditions/site/ss.html
 
