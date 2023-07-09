@@ -47,7 +47,7 @@ TODO: дописать и отладить работу SS на Linux
 
 ## Клиент ShadowSocks для iOS
 ### Shadowrocket для iOS (оптимальное, но платное решение)
-1. Купить и установить Shadowrocket из AppStore (250р).
+1. Купить и установить [Shadowrocket из AppStore](https://apps.apple.com/us/app/shadowrocket/id932747118) (250р).
 2. Прописать собственный сервер
 3. Зайти во вкладку "Config" -> Remote files -> указать ссылку на .CONF файл
 
