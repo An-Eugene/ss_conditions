@@ -12,8 +12,8 @@
 * ~~[Shadowsocks для MacOS](#shadowsocks-для-macos)~~
 * [Shadowsocks для Android](#shadowsocks-для-android)
 * [Клиент Shadowsocks для iOS](#клиент-shadowsocks-для-ios)
-  - [Shadowrocket для iOS](#shadowrocket-для-ios-оптимальное-но-платное-решение)
-  - [Shadowlink для iOS](#shadowlink-для-ios-неавтоматическое-но-бесплатное-решение)
+  - [Shadowrocket для iOS](#shadowrocket-для-ios-оптимальное-но-платное-решение) (платно)
+  - [Shadowlink для iOS](#shadowlink-для-ios-неавтоматическое-но-бесплатное-решение) (бесплатно)
 * [Расширение для браузера SwitchyOmega](#proxy-switchyomega-для-браузера)
 
 Так как сценарий настройки удалённый, любые изменения в списке сценариев синхронизируются с программой на ПК, приложением на Android или с расширением для браузера **(кроме персонально указанных инструкций)**.
