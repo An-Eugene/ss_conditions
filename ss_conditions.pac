@@ -116,6 +116,7 @@ var __BLOCKEDSITES__ = [
   "*.slavicsac.com",
   "*.sobesednik.com",
   "*.sobytiya.info",
+  "*.solopress.com",
   "*.spektr.press",
   "*.spotify.com",
   "*.sputnikipogrom.com",
