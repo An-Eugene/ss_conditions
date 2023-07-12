@@ -50,6 +50,7 @@ TODO: дописать и отладить работу SS на Linux
 1. Купить и установить [Shadowrocket из AppStore](https://apps.apple.com/us/app/shadowrocket/id932747118) (250р).
 2. Прописать собственный сервер
 3. Зайти во вкладку "Config" -> Remote files -> указать ссылку на .CONF файл
+4. На главной странице выбрать "Global Routing" -> Config
 
 Ссылка на CONF файл: https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions.conf
 
@@ -57,9 +58,6 @@ TODO: дописать и отладить работу SS на Linux
 1. Установить [Shadowlink из AppStore](https://apps.apple.com/us/app/shadowlink-shadowsocks-proxy/id1439686518 "Shadowlink for iOS"). **Отказаться от всех навязываемых подписок и пробных периодов**: нас не интересуют сервера по умолчанию, мы добавляем собственную конфигурацию
 2. Прописать собственный сервер. К сожалению, в отличие от SS для ПК и Android, данное приложение требует QR код. Для этого просто загоняем ссылку вида ss://<base64_info> в [генератор QR кодов](https://webqr.com/create.html) на компьютере, а потом сканируем с айфона конфигурацию
 3. Заходим в Proxy Rule, импортируем CONF файл конфигурации
-
-
-Ссылка на CONF файл: https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions_clash.conf
 
 Ссылка на скачивание файла: https://an-eugene.github.io/ss_conditions/site/ss.html
 
