@@ -6,6 +6,7 @@ var __BLOCKEDSITES__ = [
   "*.agents.media",
   "*.appspot.com",
   "*.arbat.media",
+  "*.archiveofourown.org",
   "*.azathabar.com",
   "*.azattyq.com",
   "*.bbc.com",
