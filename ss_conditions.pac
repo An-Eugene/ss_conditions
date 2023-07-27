@@ -78,6 +78,7 @@ var __BLOCKEDSITES__ = [
   "*.mignews.com",
   "echo.msk.ru",
   "*.navalny.com",
+  "*.netflix.com",
   "*.newsru.com",
   "newsru.co.il",
   "*.newtimes.ru",
