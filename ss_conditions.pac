@@ -100,6 +100,7 @@ var __BLOCKEDSITES__ = [
   "*.postimees.ee",
   "*.proekt.media",
   "*.provereno.media",
+  "*.putin-killer.com",
   "*.quora.com",
   "*.realist.online",
   "*.republic.ru",
