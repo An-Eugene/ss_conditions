@@ -29,6 +29,7 @@ var __BLOCKEDSITES__ = [
   "*.echofm.online",
   "*.echokavkaza.com",
   "*.ej.ru",
+  "*.eporner.com",
   "*.euronews.com",
   "*.euroradio.fm",
   "*.exler.ru",
