@@ -127,6 +127,7 @@ var __BLOCKEDSITES__ = [
   "*.sputnikipogrom.com",
   "*.strana.news",
   "*.strana.today",
+  "*.suicidegirls.com",
   "*.suspilne.media",
   "*.svoboda.org",
   "*.svtv.org",
