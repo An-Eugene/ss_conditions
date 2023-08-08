@@ -17,6 +17,7 @@ var __BLOCKEDSITES__ = [
   "*.cdninstagram.com",
   "*.cherta.media",
   "*.colta.ru",
+  "*.crocoblock.com",
   "*.currenttime.tv",
   "*.cyxymu.info",
   "*.delfi.ee",
