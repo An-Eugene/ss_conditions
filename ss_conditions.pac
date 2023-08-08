@@ -150,6 +150,8 @@ var __BLOCKEDSITES__ = [
   "*.twitter.com",
   "*.usa.one",
   "*.verstka.media",
+  "*.vesma.today",
+  "*.vesma.one",
   "vesty.co.il",
   "*.voanews.com",
   "*.vot-tak.tv",
