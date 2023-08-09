@@ -14,6 +14,7 @@ var __BLOCKEDSITES__ = [
   "*.bellingcar.com",
   "*.bild.de",
   "*.blackseanews.net",
+  "*.carousell.sg",
   "*.cdninstagram.com",
   "*.cherta.media",
   "*.colta.ru",
