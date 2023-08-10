@@ -26,6 +26,7 @@ var __BLOCKEDSITES__ = [
   "*.delfi.lt",
   "*.delfi.lv",
   "*.dell.com",
+  "*.dellcdn.com",
   "*.discours.io",
   "*.dovod.online",
   "*.doxa.team",
