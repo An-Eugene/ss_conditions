@@ -28,6 +28,7 @@ var __BLOCKEDSITES__ = [
   "*.dell.com",
   "*.dellcdn.com",
   "*.discours.io",
+  "*.dossier.center",
   "*.dovod.online",
   "*.doxa.team",
   "*.dw.com",
