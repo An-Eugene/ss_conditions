@@ -5,6 +5,7 @@ var __BLOCKEDSITES__ = [
   "9tv.co.il",
   "*.activatica.org",
   "*.agents.media",
+  "*.appleinsider.ru",
   "*.appspot.com",
   "*.arbat.media",
   "*.archiveofourown.org",
