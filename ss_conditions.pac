@@ -145,6 +145,7 @@ var __BLOCKEDSITES__ = [
   "*.thebarentsobserver.com",
   "*.thebell.io",
   "*.theins.ru",
+  "*.themegrill.com",
   "*.thenewtab.io",
   "*.thepiratebay.org",
   "*.tjournal.ru",
