@@ -75,6 +75,7 @@ var __BLOCKEDSITES__ = [
   "*.lentachel.ru",
   "*.libgen.li",
   "*.linkedin.com",
+  "*.livehdcams.com",
   "*.locals.md",
   "*.lolz.guru",
   "*.m.me",
