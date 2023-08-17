@@ -51,11 +51,12 @@
 (?:^|\.)freemedia\.io$
 (?:^|\.)gagadget\.com$
 (?:^|\.)germania\.one$
-(?:^|\.)grani\.ru$
-(?:^|\.)graty\.me$
+(?:^|\.)getoutline\.com$
 ^yt3\.ggpht\.com$
 ^news\.google\.com$
 ^play\.google\.com$
+(?:^|\.)grani\.ru$
+(?:^|\.)graty\.me$
 (?:^|\.)hdrezka\.ag$
 (?:^|\.)holod\.media$
 (?:^|\.)hostinger\.com$
