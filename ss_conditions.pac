@@ -4,6 +4,7 @@ var __BLOCKEDSITES__ = [
   "*.4pda.ru",
   "9tv.co.il",
   "*.activatica.org",
+  "*.adguard.com",
   "*.agents.media",
   "*.appleinsider.ru",
   "*.appspot.com",
