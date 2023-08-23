@@ -164,6 +164,7 @@ var __BLOCKEDSITES__ = [
   "*.twitter.com",
   "*.usa.one",
   "*.verstka.media",
+  "*.verpex.com",
   "*.vesma.today",
   "*.vesma.one",
   "vesty.co.il",
