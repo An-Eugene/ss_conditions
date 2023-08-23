@@ -95,6 +95,7 @@ var __BLOCKEDSITES__ = [
   "*.newsru.com",
   "newsru.co.il",
   "*.newtimes.ru",
+  "*.nhentai.net",
   "*.novaya.no",
   "*.novayagazeta.ru",
   "*.novayagazeta.eu",
