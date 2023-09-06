@@ -49,6 +49,7 @@
 (?:^|\.)facebook\.com$
 (?:^|\.)fbcdn\.net$
 (?:^|\.)flibusta\.is$
+(?:^|\.)fonge\.org$
 (?:^|\.)fortanga\.org$
 (?:^|\.)foxitsoftware\.com$
 (?:^|\.)freemedia\.io$
@@ -70,6 +71,7 @@
 (?:^|\.)is\.fi$
 (?:^|\.)istories\.media$
 (?:^|\.)itsmycity\.ru$
+(?:^|\.)jakpolak\.com$
 (?:^|\.)jauns\.lv$
 (?:^|\.)jsfiddle\.net$
 (?:^|\.)kasparov\.ru$
@@ -118,6 +120,7 @@
 (?:^|\.)provereno\.media$
 (?:^|\.)putin-killer\.com$
 (?:^|\.)quora\.com$
+(?:^|\.)radiosakharov\.org$
 (?:^|\.)realist\.online$
 (?:^|\.)republic\.ru$
 (?:^|\.)rezka\.ag$
