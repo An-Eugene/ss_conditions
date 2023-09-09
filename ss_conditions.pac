@@ -79,6 +79,7 @@ var __BLOCKEDSITES__ = [
   "*.krymr.com",
   "*.kym-cdn.com",
   "*.lentachel.ru",
+  "*.leonidvolkov.ru",
   "*.libgen.li",
   "*.linkedin.com",
   "*.livehdcams.com",
