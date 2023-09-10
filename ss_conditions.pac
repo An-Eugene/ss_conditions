@@ -86,6 +86,7 @@ var __BLOCKEDSITES__ = [
   "*.locals.md",
   "*.lolz.guru",
   "*.m.me",
+  "*.mdza.io",
   "*.mediazona.ca",
   "*.medium.com",
   "*.meduza.io",
