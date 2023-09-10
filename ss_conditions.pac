@@ -54,6 +54,7 @@ var __BLOCKEDSITES__ = [
   "*.gagadget.com",
   "*.germania.one",
   "*.getoutline.com",
+  "*.getsignal.news",
   "yt3.ggpht.com",
   "news.google.com",
   "play.google.com",
