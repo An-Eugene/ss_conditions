@@ -167,6 +167,7 @@ var __BLOCKEDSITES__ = [
   "*.tvrain.tv",
   "*.twimg.com",
   "*.twitter.com",
+  "*.unian.net",
   "*.usa.one",
   "*.verstka.media",
   "*.verpex.com",
