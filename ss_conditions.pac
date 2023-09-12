@@ -151,6 +151,7 @@ var __BLOCKEDSITES__ = [
   "*.suspilne.media",
   "*.svoboda.org",
   "*.svtv.org",
+  "*.syg.ma",
   "*.t.co",
   "*.tayga.info",
   "*.telegraf.by",
