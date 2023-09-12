@@ -20,6 +20,7 @@ var __BLOCKEDSITES__ = [
   "*.blackseanews.net",
   "*.carousell.sg",
   "*.cdninstagram.com",
+  "*.centre-t.com",
   "*.cherta.media",
   "*.colta.ru",
   "*.crocoblock.com",
