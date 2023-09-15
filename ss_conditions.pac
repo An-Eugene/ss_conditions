@@ -96,6 +96,7 @@ var __BLOCKEDSITES__ = [
   "*.merezha.co",
   "*.metla.press",
   "*.mignews.com",
+  "*.myrotvorets.center",
   "echo.msk.ru",
   "*.navalny.com",
   "*.netflix.com",
