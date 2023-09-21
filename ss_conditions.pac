@@ -139,6 +139,7 @@ var __BLOCKEDSITES__ = [
   "*.saverudata.net",
   "*.semnasem.org",
   "*.severreal.org",
+  "*.shikimori.me",
   "*.sibreal.org",
   "*.skat.media",
   "*.slavicsac.com",
