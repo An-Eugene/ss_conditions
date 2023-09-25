@@ -26,6 +26,7 @@ var __BLOCKEDSITES__ = [
   "*.crocoblock.com",
   "*.currenttime.tv",
   "*.cyxymu.info",
+  "*.deepstatemap.live",
   "*.delfi.ee",
   "*.delfi.lt",
   "*.delfi.lv",
