@@ -109,6 +109,7 @@ var __BLOCKEDSITES__ = [
   "*.novayagazeta.ru",
   "*.novayagazeta.eu",
   "*.novyny.live",
+  "*.odessa.online",
   "*.openai.com",
   "*.openmedia.io",
   "*.opposition-news.com",
