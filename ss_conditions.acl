@@ -92,6 +92,8 @@
 (?:^|\.)locals\.md$
 (?:^|\.)lolz\.guru$
 (?:^|\.)m\.me$
+(?:^|\.)mangahub\.ru$
+(?:^|\.)mangapoisk\.com$
 (?:^|\.)mdza\.io$
 (?:^|\.)mediazona\.ca$
 (?:^|\.)medium\.com$
@@ -193,6 +195,7 @@
 (?:^|\.)windscribe\.com$
 (?:^|\.)wixmp\.com$
 (?:^|\.)wonderzine\.com$
+(?:^|\.)yaoilib\.me$
 (?:^|\.)yle\.fi$
 (?:^|\.)zahav\.ru$
 (?:^|\.)zerkalo\.io$
