@@ -130,6 +130,7 @@ var __BLOCKEDSITES__ = [
   "*.proekt.media",
   "*.provereno.media",
   "*.putin-killer.com",
+  "*.quest.com",
   "*.quora.com",
   "*.radiosakharov.org",
   "*.realist.online",
