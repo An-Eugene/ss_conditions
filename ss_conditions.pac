@@ -100,6 +100,7 @@ var __BLOCKEDSITES__ = [
   "*.merezha.co",
   "*.metla.press",
   "*.mignews.com",
+  "*.miniplay.com",
   "*.mintmanga.live",
   "*.myrotvorets.center",
   "echo.msk.ru",
