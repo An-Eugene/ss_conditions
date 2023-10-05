@@ -14,7 +14,6 @@
 * [Клиент Shadowsocks для iOS](#клиент-shadowsocks-для-ios)
   - [Shadowrocket для iOS](#shadowrocket-для-ios-оптимальное-но-платное-решение) (платно)
   - [Shadowlink для iOS](#shadowlink-для-ios-неавтоматическое-но-бесплатное-решение) (бесплатно)
-* [Расширение для браузера SwitchyOmega](#proxy-switchyomega-для-браузера)
 
 Так как сценарий настройки удалённый, любые изменения в списке сценариев синхронизируются с программой на ПК, приложением на Android или с расширением для браузера **(кроме персонально указанных инструкций)**.
 
@@ -63,7 +62,7 @@ TODO: дописать и отладить работу SS на Linux
 
 **Внимание**: ввиду ограничений платформы, файл настройки здесь не удалённый и требует ручного скачивания каждый раз, когда список обновляется
 
-## Proxy SwitchyOmega для браузера
+## Proxy SwitchyOmega для браузера (устаревшее)
 1. Установить [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases/latest "Shadowsocks github repo") из официального репозитория и прописать сервер
 2. Установить [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif "SwitchyOmega for Google Chrome")
 3. Создать новый профиль - PAC Profile
