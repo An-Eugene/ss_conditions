@@ -211,6 +211,7 @@
 (?:^|\.)zahav\.ru$
 (?:^|\.)zerkalo\.io$
 (?:^|\.)zona\.media$
+(?:^|\.)zomro\.com$
 
 [bypass_list]
 0.0.0.0/8
