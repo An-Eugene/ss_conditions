@@ -199,6 +199,7 @@ var __BLOCKEDSITES__ = [
   "*.voanews.com",
   "*.vot-tak.tv",
   "*.vpnlove.me",
+  "*.weather.com",
   "*.welt.de",
   "*.windscribe.com",
   "*.wixmp.com",
