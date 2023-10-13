@@ -34,6 +34,7 @@ TODO: дописать и отладить работу SS на Linux
 
 ## ~~Shadowsocks для MacOS~~
 1. ~~Установить [Shadowsocks](https://github.com/shadowsocks/ShadowsocksX-NG)~~
+К сожалению, заставить работать ShadowsocksX-NG на MacOS не получилось
 
 
 ## Shadowsocks для Android
