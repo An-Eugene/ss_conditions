@@ -11,6 +11,7 @@ var __BLOCKEDSITES__ = [
   "*.appspot.com",
   "*.arbat.media",
   "*.archiveofourown.org",
+  "*.aussiedlerbote.de",
   "*.azathabar.com",
   "*.azattyq.com",
   "*.bbc.com",
