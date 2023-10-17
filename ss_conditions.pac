@@ -86,6 +86,7 @@ var __BLOCKEDSITES__ = [
   "*.jakpolak.com",
   "*.jauns.lv",
   "*.jsfiddle.net",
+  "*.kaleido.ai",
   "*.kasparov.ru",
   "*.kavkaz-uzel.eu",
   "*.kavkazr.com",
