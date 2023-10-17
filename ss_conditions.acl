@@ -21,10 +21,12 @@
 (?:^|\.)bellingcat\.com$
 (?:^|\.)bild\.de$
 (?:^|\.)blackseanews\.net$
+(?:^|\.)canva\.com$
 (?:^|\.)carousell\.sg$
 (?:^|\.)cdninstagram\.com$
 (?:^|\.)centre-t\.com$
 (?:^|\.)cherta\.media$
+(?:^|\.)claude\.ai$
 (?:^|\.)colta\.ru$
 (?:^|\.)crocoblock\.com$
 (?:^|\.)currenttime\.tv$
@@ -37,6 +39,7 @@
 (?:^|\.)dellcdn\.com$
 (?:^|\.)discours\.io$
 (?:^|\.)dnsstuff\.com$
+^danbooru\.donmai\.us$
 (?:^|\.)dossier\.center$
 (?:^|\.)dovod\.online$
 (?:^|\.)doxa\.team$
@@ -59,6 +62,7 @@
 (?:^|\.)fortanga\.org$
 (?:^|\.)foxitsoftware\.com$
 (?:^|\.)freemedia\.io$
+(?:^|\.)furaffinity\.net$
 (?:^|\.)gagadget\.com$
 (?:^|\.)germania\.one$
 (?:^|\.)getoutline\.com$
@@ -69,6 +73,9 @@
 (?:^|\.)grani\.ru$
 (?:^|\.)graty\.me$
 (?:^|\.)hdrezka\.ag$
+(?:^|\.)hentai\.name$
+(?:^|\.)hentaichan\.live$
+(?:^|\.)hide\.me$
 (?:^|\.)holod\.media$
 (?:^|\.)hostinger\.com$
 (?:^|\.)hs\.fi$
@@ -84,6 +91,8 @@
 (?:^|\.)kasparov\.ru$
 (?:^|\.)kavkaz-uzel\.eu$
 (?:^|\.)kavkazr\.com$
+(?:^|\.)knowyourmeme\.com$
+(?:^|\.)konachan\.com$
 (?:^|\.)korrespondent\.net$
 (?:^|\.)krymr\.com$
 (?:^|\.)kym-cdn\.com$
@@ -97,6 +106,7 @@
 (?:^|\.)m\.me$
 (?:^|\.)mangahub\.ru$
 (?:^|\.)mangapoisk\.com$
+(?:^|\.)manticgames\.com$
 (?:^|\.)mdza\.io$
 (?:^|\.)mediazona\.ca$
 (?:^|\.)medium\.com$
@@ -115,10 +125,12 @@
 (?:^|\.)*\.newsru\.co\.il$
 (?:^|\.)newtimes\.ru$
 (?:^|\.)nhentai\.net$
+(?:^|\.)nhentai\.to$
 (?:^|\.)novaya\.no$
 (?:^|\.)novayagazeta\.ru$
 (?:^|\.)novayagazeta\.eu$
 (?:^|\.)novyny\.live$
+(?:^|\.)nyaa\.si$
 (?:^|\.)odessa\.online$
 (?:^|\.)openai\.com$
 (?:^|\.)openmedia\.io$
@@ -131,6 +143,7 @@
 (?:^|\.)paperpaper\.ru$
 (?:^|\.)paperpaper\.io$
 (?:^|\.)patreon\.com$
+(?:^|\.)pixiv\.net$
 (?:^|\.)politiken\.dk$
 (?:^|\.)posle\.media$
 (?:^|\.)postimees\.ee$
@@ -141,6 +154,7 @@
 (?:^|\.)quora\.com$
 (?:^|\.)radiosakharov\.org$
 (?:^|\.)realist\.online$
+(?:^|\.)remove\.bg$
 (?:^|\.)republic\.ru$
 (?:^|\.)rezka\.ag$
 (?:^|\.)rezonans\.media$
@@ -163,6 +177,7 @@
 (?:^|\.)sobesednik\.com$
 (?:^|\.)sobytiya\.info$
 (?:^|\.)solopress\.com$
+(?:^|\.)soundcloud\.com$
 (?:^|\.)spektr\.press$
 (?:^|\.)spotify\.com$
 (?:^|\.)sputnikipogrom\.com$
@@ -204,9 +219,11 @@
 (?:^|\.)vpnlove\.me$
 (?:^|\.)weather\.com$
 (?:^|\.)welt\.de$
+(?:^|\.)wikidot\.com$
 (?:^|\.)windscribe\.com$
 (?:^|\.)wixmp\.com$
 (?:^|\.)wonderzine\.com$
+(?:^|\.)yande\.re$
 (?:^|\.)yaoilib\.me$
 (?:^|\.)yle\.fi$
 (?:^|\.)zahav\.ru$
