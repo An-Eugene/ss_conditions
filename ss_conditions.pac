@@ -1,5 +1,6 @@
 var __BLOCKEDSITES__ = [
   "*.ua",
+  "*.1lordserials.info",
   "*.3dyuriki.com",
   "*.4freerussia.org",
   "*.4pda.ru",
