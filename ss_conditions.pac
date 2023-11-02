@@ -24,6 +24,7 @@ var __BLOCKEDSITES__ = [
   "*.carousell.sg",
   "*.cdninstagram.com",
   "*.centre-t.com",
+  "*.chatgpt.com",
   "*.cherta.media",
   "*.claude.ai",
   "*.colta.ru",
