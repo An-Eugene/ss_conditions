@@ -165,6 +165,7 @@ var __BLOCKEDSITES__ = [
   "*.radiosakharov.org",
   "*.realist.online",
   "*.remove.bg",
+  "*.rentry.co",
   "*.republic.ru",
   "*.rezka.ag",
   "*.rezonans.media",
