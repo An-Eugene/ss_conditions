@@ -186,6 +186,7 @@ var __BLOCKEDSITES__ = [
   "*.sibreal.org",
   "*.skat.media",
   "*.slavicsac.com",
+  "*.smartasset.com",
   "*.sobesednik.com",
   "*.sobytiya.info",
   "*.solopress.com",
