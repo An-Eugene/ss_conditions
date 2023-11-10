@@ -205,6 +205,7 @@ var __BLOCKEDSITES__ = [
   "*.svtv.org",
   "*.syg.ma",
   "*.t.co",
+  "*.t-ru.org",
   "*.tayga.info",
   "*.telegraf.by",
   "*.the-village.ru",
