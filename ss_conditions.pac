@@ -208,6 +208,7 @@ var __BLOCKEDSITES__ = [
   "*.t.co",
   "*.t-ru.org",
   "*.tayga.info",
+  "*.te-st.org",
   "*.telegraf.by",
   "*.the-village.ru",
   "*.thebarentsobserver.com",
