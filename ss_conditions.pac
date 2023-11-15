@@ -143,6 +143,7 @@ var __BLOCKEDSITES__ = [
   "*.novayagazeta.eu",
   "*.novyny.live",
   "*.nyaa.si",
+  "cdn.oaistatic.com",
   "*.oculus.com",
   "*.odessa.online",
   "*.openai.com",
