@@ -63,6 +63,7 @@ var __BLOCKEDSITES__ = [
   "*.facebook.com",
   "*.fapreactor.com",
   "*.fbcdn.net",
+  "*.fbsbx.com",
   "*.flibusta.is",
   "*.fonge.org",
   "*.fortanga.org",
