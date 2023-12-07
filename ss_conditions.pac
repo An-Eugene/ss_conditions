@@ -137,6 +137,7 @@ var __BLOCKEDSITES__ = [
   "*.myrotvorets.center",
   "echo.msk.ru",
   "*.navalny.com",
+  "*.neputin.org",
   "*.netflix.com",
   "*.newsru.com",
   "*.newsru.co.il",
