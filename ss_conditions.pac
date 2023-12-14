@@ -97,6 +97,7 @@ var __BLOCKEDSITES__ = [
   "*.itsmycity.ru",
   "*.jakpolak.com",
   "*.jauns.lv",
+  "*.joyreactor.cc",
   "*.jsfiddle.net",
   "*.kaleido.ai",
   "*.kasparov.ru",
