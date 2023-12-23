@@ -132,6 +132,7 @@ var __BLOCKEDSITES__ = [
   "*.metacritic.com",
   "*.metla.press",
   "copilot.microsoft.com",
+  "designer.microsoft.com",
   "*.mignews.com",
   "*.miniplay.com",
   "*.mintmanga.live",
