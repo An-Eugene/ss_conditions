@@ -104,6 +104,7 @@ var __BLOCKEDSITES__ = [
   "*.kavkaz-uzel.eu",
   "*.kavkazr.com",
   "*.kinogo.biz",
+  "*.kinogo.fm",
   "*.knowyourmeme.com",
   "*.konachan.com",
   "*.korrespondent.net",
