@@ -63,6 +63,7 @@ var __BLOCKEDSITES__ = [
   "*.expres.online",
   "*.facebook.com",
   "*.fapreactor.com",
+  "*.fb.com",
   "*.fbcdn.net",
   "*.fbsbx.com",
   "*.flibusta.is",
