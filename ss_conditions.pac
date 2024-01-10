@@ -87,6 +87,7 @@ var __BLOCKEDSITES__ = [
   "*.hentai.name",
   "*.hentaichan.live",
   "*.hide.me",
+  "*.hochunaiti.com",
   "*.holod.media",
   "*.hostinger.com",
   "*.hs.fi",
