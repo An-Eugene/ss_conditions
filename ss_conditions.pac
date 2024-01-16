@@ -71,6 +71,7 @@ var __BLOCKEDSITES__ = [
   "*.fortanga.org",
   "*.foxitsoftware.com",
   "*.freemedia.io",
+  "*.freepng.ru",
   "*.furaffinity.net",
   "*.gagadget.com",
   "*.germania.one",
