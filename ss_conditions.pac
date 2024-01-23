@@ -36,6 +36,7 @@ var __BLOCKEDSITES__ = [
   "*.copilot.cx",
   "*.crocoblock.com",
   "*.currenttime.tv",
+  "*.cvedetails.com",
   "*.cyxymu.info",
   "*.daz3d.com",
   "*.deepstatemap.live",
