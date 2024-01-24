@@ -238,6 +238,7 @@ var __BLOCKEDSITES__ = [
   "*.thenewtab.io",
   "*.thepiratebay.org",
   "*.tjournal.ru",
+  "*.top-fon.com",
   "*.torrentgalaxy.to",
   "*.torproject.org",
   "*.tv2.today",
