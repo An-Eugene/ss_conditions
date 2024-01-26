@@ -19,6 +19,7 @@ echo "];" >> ../ss_conditions.pac
 cat ../templates/ss_conditions_template.pac >> ../ss_conditions.pac
 
 # parse both rules_proxy and rules_direct and make ACL file
+# UPD: commented rules_direct due to support drop
 echo "[bypass_all]" > ../ss_conditions.acl
 echo "" >> ../ss_conditions.acl
 echo "[proxy_list]" >> ../ss_conditions.acl
@@ -38,21 +39,21 @@ for line in "${lines[@]}"; do
 done
 
 echo "" >> ../ss_conditions.acl
-echo "[bypass_list]" >> ../ss_conditions.acl
+# echo "[bypass_list]" >> ../ss_conditions.acl
 
-mapfile -t lines < ../rules/rules_direct
-for line in "${lines[@]}"; do
-    if [[ $line == *.*.*.* && ${line:0:2} != '*.' ]]; then
-        transformed_line="$line"
-    elif [[ $line == *.*.* && ${line:0:2} != '*.' ]]; then
-        transformed_line="^${line//./\\.}$"
-    elif [[ $line == *.* ]]; then
-        transformed_line="(?:^|\\.)${line//./\\.}$"
-    else
-        transformed_line="$line"
-    fi
-    echo "$transformed_line" >> ../ss_conditions.acl
-done
+# mapfile -t lines < ../rules/rules_direct
+# for line in "${lines[@]}"; do
+#     if [[ $line == *.*.*.* && ${line:0:2} != '*.' ]]; then
+#         transformed_line="$line"
+#     elif [[ $line == *.*.* && ${line:0:2} != '*.' ]]; then
+#         transformed_line="^${line//./\\.}$"
+#     elif [[ $line == *.* ]]; then
+#         transformed_line="(?:^|\\.)${line//./\\.}$"
+#     else
+#         transformed_line="$line"
+#     fi
+#     echo "$transformed_line" >> ../ss_conditions.acl
+# done
 
 # parse rules_proxy and make .CONF file
 # echo -n "" > ../ss_conditions.conf
@@ -61,6 +62,8 @@ mapfile -t lines < ../rules/rules_proxy
 for line in "${lines[@]}"; do
     if [[ $line == *.*.*.* && ${line:0:2} != '*.' ]]; then
         transformed_line="IP-CIDR,$line,PROXY"
+    elif [[ $line == '*.'* ]]; then
+        transformed_line="DOMAIN-SUFFIX,${line:2},PROXY"
     else
         transformed_line="DOMAIN-SUFFIX,$line,PROXY"
     fi
@@ -74,6 +77,8 @@ mapfile -t lines < ../rules/rules_proxy
 for line in "${lines[@]}"; do
     if [[ $line == *.*.*.* && ${line:0:2} != '*.' ]]; then
         transformed_line="IP-CIDR,$line,PROXY"
+    elif [[ $line == '*.'* ]]; then
+        transformed_line="DOMAIN-SUFFIX,${line:2},PROXY"
     else
         transformed_line="DOMAIN-SUFFIX,$line,PROXY"
     fi
