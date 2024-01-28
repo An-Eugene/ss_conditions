@@ -55,10 +55,10 @@ TODO: дописать и отладить работу SS на Linux
 ### Shadowrocket для iOS (оптимальное, но платное решение)
 1. Купить и установить [Shadowrocket из AppStore](https://apps.apple.com/us/app/shadowrocket/id932747118) (250р).
 2. Прописать собственный сервер
-3. Зайти во вкладку "Config" -> Remote files -> указать ссылку на .CONF файл
+3. Зайти во вкладку "Настройка" -> Добавить файл конфигурации -> указать ссылку на .CONF файл
 4. На главной странице выбрать "Global Routing" -> Config
 
-Ссылка на CONF файл: https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions.conf
+Ссылка на CONF файл: [https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions.conf](https://raw.githubusercontent.com/An-Eugene/ss_conditions/Shadowrocket-fix/ss_conditions_shadowrocket.conf)
 
 ### Shadowlink для iOS (неавтоматическое, но бесплатное решение)
 1. Установить [Shadowlink из AppStore](https://apps.apple.com/us/app/shadowlink-shadowsocks-proxy/id1439686518 "Shadowlink for iOS"). **Отказаться от всех навязываемых подписок и пробных периодов**: нас не интересуют сервера по умолчанию, мы добавляем собственную конфигурацию
