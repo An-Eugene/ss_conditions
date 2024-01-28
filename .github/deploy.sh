@@ -84,4 +84,4 @@ for line in "${lines[@]}"; do
     fi
     echo "$transformed_line" >> ../ss_conditions_clash.conf
 done
-echo "FINAL,DIRECT" >> ../ss_conditions_clash.conf
+# echo "FINAL,DIRECT" >> ../ss_conditions_clash.conf
