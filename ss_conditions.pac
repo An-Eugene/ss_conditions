@@ -266,6 +266,7 @@ var __BLOCKEDSITES__ = [
   "*.vot-tak.tv",
   "*.vpnlove.me",
   "*.vynesimozg.com",
+  "*.wdfiles.com",
   "*.weather.com",
   "*.welt.de",
   "*.wikidot.com",
