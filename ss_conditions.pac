@@ -172,6 +172,7 @@ var __BLOCKEDSITES__ = [
   "*.openai.com",
   "*.openmedia.io",
   "*.opposition-news.com",
+  "*.osti.gov",
   "*.otkrito.lv",
   "*.ovd.news",
   "*.ovdinfo.org",
