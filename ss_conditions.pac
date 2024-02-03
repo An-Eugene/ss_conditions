@@ -161,6 +161,7 @@ var __BLOCKEDSITES__ = [
   "*.nhentai.net",
   "*.nhentai.to",
   "*.nnmclub.to",
+  "*.notion.so",
   "*.novaya.no",
   "*.novayagazeta.ru",
   "*.novayagazeta.eu",
