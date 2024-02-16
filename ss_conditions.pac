@@ -175,6 +175,7 @@ var __BLOCKEDSITES__ = [
   "*.opposition-news.com",
   "*.osti.gov",
   "*.otkrito.lv",
+  "*.ovd.info",
   "*.ovd.news",
   "*.ovdinfo.org",
   "*.ozodi.org",
