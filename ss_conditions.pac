@@ -87,6 +87,7 @@ var __BLOCKEDSITES__ = [
   "yt3.ggpht.com",
   "*.githubcopilot.com",
   "bard.google.com",
+  "gemini.google.com",
   "news.google.com",
   "play.google.com",
   "*.grani.ru",
