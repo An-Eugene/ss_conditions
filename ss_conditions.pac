@@ -17,6 +17,7 @@ var __BLOCKEDSITES__ = [
   "*.animelib.me",
   "*.animevost.tv",
   "*.antiwar.in",
+  "*.antiwarcommittee.info",
   "*.appleinsider.ru",
   "*.appspot.com",
   "*.arbat.media",
