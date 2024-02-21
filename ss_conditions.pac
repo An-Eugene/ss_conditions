@@ -275,6 +275,7 @@ var __BLOCKEDSITES__ = [
   "*.weather.com",
   "*.welt.de",
   "*.wikidot.com",
+  "*.willytel.de",
   "*.windscribe.com",
   "*.wixmp.com",
   "*.wonderzine.com",
