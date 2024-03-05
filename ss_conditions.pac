@@ -231,6 +231,7 @@ var __BLOCKEDSITES__ = [
   "*.strana.news",
   "*.strana.today",
   "*.suicidegirls.com",
+  "*.surveymonkey.com",
   "*.suspilne.media",
   "*.svoboda.org",
   "*.svtv.org",
