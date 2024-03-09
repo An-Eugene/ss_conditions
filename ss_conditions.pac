@@ -42,6 +42,7 @@ var __BLOCKEDSITES__ = [
   "*.colta.ru",
   "*.copilot.cx",
   "*.crocoblock.com",
+  "*.cropp.com",
   "*.currenttime.tv",
   "*.cvedetails.com",
   "*.cyxymu.info",
