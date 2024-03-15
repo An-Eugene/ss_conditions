@@ -19,6 +19,7 @@
 (?:^|\.)animelib\.me$
 (?:^|\.)animevost\.tv$
 (?:^|\.)antiwar\.in$
+(?:^|\.)antiwarcommittee\.info$
 (?:^|\.)appleinsider\.ru$
 (?:^|\.)appspot\.com$
 (?:^|\.)arbat\.media$
@@ -43,6 +44,7 @@
 (?:^|\.)colta\.ru$
 (?:^|\.)copilot\.cx$
 (?:^|\.)crocoblock\.com$
+(?:^|\.)cropp\.com$
 (?:^|\.)currenttime\.tv$
 (?:^|\.)cvedetails\.com$
 (?:^|\.)cyxymu\.info$
@@ -89,6 +91,7 @@
 ^yt3\.ggpht\.com$
 (?:^|\.)githubcopilot\.com$
 ^bard\.google\.com$
+^gemini\.google\.com$
 ^news\.google\.com$
 ^play\.google\.com$
 (?:^|\.)grani\.ru$
@@ -163,6 +166,7 @@
 (?:^|\.)nhentai\.net$
 (?:^|\.)nhentai\.to$
 (?:^|\.)nnmclub\.to$
+(?:^|\.)notion\.so$
 (?:^|\.)novaya\.no$
 (?:^|\.)novayagazeta\.ru$
 (?:^|\.)novayagazeta\.eu$
@@ -174,7 +178,9 @@
 (?:^|\.)openai\.com$
 (?:^|\.)openmedia\.io$
 (?:^|\.)opposition-news\.com$
+(?:^|\.)osti\.gov$
 (?:^|\.)otkrito\.lv$
+(?:^|\.)ovd\.info$
 (?:^|\.)ovd\.news$
 (?:^|\.)ovdinfo\.org$
 (?:^|\.)ozodi\.org$
@@ -228,6 +234,7 @@
 (?:^|\.)strana\.news$
 (?:^|\.)strana\.today$
 (?:^|\.)suicidegirls\.com$
+(?:^|\.)surveymonkey\.com$
 (?:^|\.)suspilne\.media$
 (?:^|\.)svoboda\.org$
 (?:^|\.)svtv\.org$
@@ -268,9 +275,11 @@
 (?:^|\.)vot-tak\.tv$
 (?:^|\.)vpnlove\.me$
 (?:^|\.)vynesimozg\.com$
+(?:^|\.)wdfiles\.com$
 (?:^|\.)weather\.com$
 (?:^|\.)welt\.de$
 (?:^|\.)wikidot\.com$
+(?:^|\.)willytel\.de$
 (?:^|\.)windscribe\.com$
 (?:^|\.)wixmp\.com$
 (?:^|\.)wonderzine\.com$
