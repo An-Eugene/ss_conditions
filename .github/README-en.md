@@ -57,7 +57,7 @@ ACL file link: https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss
 
 .CONF file link: [https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions_shadowrocket.conf](https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions_shadowrocket.conf)
 
-### Shadowlink для iOS (non-automatic but free solution)
+### Shadowlink for iOS (non-automatic but free solution)
 1. Install [Shadowlink из AppStore](https://apps.apple.com/us/app/shadowlink-shadowsocks-proxy/id1439686518 "Shadowlink for iOS"). **Deny any paid subscriptions and trials**: we don't care about predefined paid servers, we will enter our own server.
 2. Enter your own server. This is the only program that requires QR instead of ss:// link. To convert ss://<base64_info> link to QR code you can use any [QR code generator](https://webqr.com/create.html), then just scan it via iPhone camera.
 3. Go to Proxy Rule, import CONF file
