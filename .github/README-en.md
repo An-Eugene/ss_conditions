@@ -2,7 +2,7 @@
 [![en](https://img.shields.io/badge/language-english-red.svg)](https://github.com/an-eugene/ss_conditions/blob/master/.github/README-en.md)
 
 ## About project
-These instructions and files are intended to use with Shadowsocks and Shadowsocks-compatible servers (e. g. [Outline](https://getoutline.org/ru/ "Download Outline")). These files may not work for other servers and clients as is so you should either provide compatibility by your own or remake VPN server using Shadowsocks.
+These instructions and files are intended to use with Shadowsocks and Shadowsocks-compatible servers (e. g. [Outline](https://getoutline.org/ru/ "Download Outline") or [3x-ui](https://github.com/MHSanaei/3x-ui)). These files may not work for other servers and clients as is so you should either provide compatibility by your own or remake VPN server using Shadowsocks.
 These configs are using blacklist principle: anything that is not in list will be routed directly. Thiis allows you to seemlessly use blocked resources (will be proxied) and resources that are not blocked and detect VPN usage (e. g. gosuslugi, will be routed directly) at the same time. 
 This thing allows you to use internet without restrictions easily but ***doesn't provide anonymity!*** Some sites that are routed via proxy could use CDN or telemetry services that will be routed directly and see your real IP. For proper anonymity use only full VPN settings with killswitch function; or configure rules by yourself (for example, by using whitelist principle).
 
