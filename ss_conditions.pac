@@ -226,6 +226,7 @@ var __BLOCKEDSITES__ = [
   "*.sobesednik.com",
   "*.sobytiya.info",
   "*.solopress.com",
+  "*.sotaproject.com",
   "*.sotavision.world",
   "*.soundcloud.com",
   "*.spektr.press",
