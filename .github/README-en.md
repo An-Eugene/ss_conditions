@@ -50,7 +50,7 @@ ACL file link: https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss
 
 ## ShadowSocks client for iOS
 ### Shadowrocket for iOS (optimal but paid solution)
-1. Buy and install [Shadowrocket из AppStore](https://apps.apple.com/us/app/shadowrocket/id932747118) (~$5).
+1. Buy and install [Shadowrocket из AppStore](https://apps.apple.com/us/app/shadowrocket/id932747118) ($2.99).
 2. Enter your server via ss:// ilnk
 3. Go to "Settings" -> add configuration file -> enter .CONF file link 
 4. Choose "Global Routing" -> Config at main page
