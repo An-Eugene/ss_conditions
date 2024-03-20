@@ -146,6 +146,7 @@
 (?:^|\.)mediazona\.ca$
 (?:^|\.)medium\.com$
 (?:^|\.)meduza\.io$
+(?:^|\.)memorialcenter\.org$
 (?:^|\.)merezha\.co$
 (?:^|\.)meta\.com$
 (?:^|\.)metacritic\.com$
@@ -227,6 +228,7 @@
 (?:^|\.)sobesednik\.com$
 (?:^|\.)sobytiya\.info$
 (?:^|\.)solopress\.com$
+(?:^|\.)sotavision\.world$
 (?:^|\.)soundcloud\.com$
 (?:^|\.)spektr\.press$
 (?:^|\.)spotify\.com$
