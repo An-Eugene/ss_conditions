@@ -211,6 +211,7 @@ var __BLOCKEDSITES__ = [
   "*.rule34.xxx",
   "*.rutor.info",
   "*.rutor.is",
+  "*.rutracker.cc",
   "*.rutracker.net",
   "*.rutracker.nl",
   "*.rutracker.org",
