@@ -174,6 +174,7 @@ var __BLOCKEDSITES__ = [
   "*.novyny.live",
   "*.nyaa.si",
   "cdn.oaistatic.com",
+  "*.oaiusercontent.com",
   "*.oculus.com",
   "*.odessa.online",
   "*.openai.com",
