@@ -7,6 +7,7 @@ var __BLOCKEDSITES__ = [
   "*.4freerussia.org",
   "*.4pda.ru",
   "9tv.co.il",
+  "*.acf.international",
   "*.activatica.org",
   "*.adguard.com",
   "*.agents.media",
