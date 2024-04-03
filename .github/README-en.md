@@ -13,7 +13,7 @@ At this time you can configure these platforms:
 * [Shadowsocks for Android](#shadowsocks-for-android)
 * [Shadowsocks client for iOS](#shadowsocks-client-for-ios)
   - [Shadowrocket for iOS](#shadowrocket-for-ios-optimal-but-paid-solution) (paid)
-  - [Shadowlink for iOS](#shadowlink-for-ios-non-automatic-but-free-solution) (free)
+  - ~~[Shadowlink for iOS](#shadowlink-for-ios-non-automatic-but-free-solution) (free)~~ the app was removed from Appstore
  
 Since these configs are remote, any changes made in repository will be automatically updated on your devices, no need to track if there are some updates, no need to update any settings manually **(except personally mentioned instructions)**.
 
@@ -57,12 +57,14 @@ ACL file link: https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss
 
 .CONF file link: [https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions_shadowrocket.conf](https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions_shadowrocket.conf)
 
-### Shadowlink for iOS (non-automatic but free solution)
-1. Install [Shadowlink из AppStore](https://apps.apple.com/us/app/shadowlink-shadowsocks-proxy/id1439686518 "Shadowlink for iOS"). **Deny any paid subscriptions and trials**: we don't care about predefined paid servers, we will enter our own server.
-2. Enter your own server. This is the only program that requires QR instead of ss:// link. To convert ss://<base64_info> link to QR code you can use any [QR code generator](https://webqr.com/create.html), then just scan it via iPhone camera.
-3. Go to Proxy Rule, import CONF file
+### ~~Shadowlink for iOS (non-automatic but free solution)~~
+~~1. Install [Shadowlink из AppStore](https://apps.apple.com/us/app/shadowlink-shadowsocks-proxy/id1439686518 "Shadowlink for iOS"). **Deny any paid subscriptions and trials**: we don't care about predefined paid servers, we will enter our own server.~~
+~~2. Enter your own server. This is the only program that requires QR instead of ss:// link. To convert ss://<base64_info> link to QR code you can use any [QR code generator](https://webqr.com/create.html), then just scan it via iPhone camera.~~
+~~3. Go to Proxy Rule, import CONF file~~
 
-Link to download CONF file: https://an-eugene.github.io/ss_conditions/site/ss.html
+~~Link to download CONF file: https://an-eugene.github.io/ss_conditions/site/ss.html~~
+
+The app was removed from Appstore. The only known solution is the paid one
 
 
 ## Proxy SwitchyOmega for browser (deprecated)
