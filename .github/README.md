@@ -13,7 +13,7 @@
 * [Shadowsocks для Android](#shadowsocks-для-android)
 * [Клиент Shadowsocks для iOS](#клиент-shadowsocks-для-ios)
   - [Shadowrocket для iOS](#shadowrocket-для-ios-оптимальное-но-платное-решение) (платно)
-  - [Shadowlink для iOS](#shadowlink-для-ios-неавтоматическое-но-бесплатное-решение) (бесплатно)
+  - ~~[Shadowlink для iOS](#shadowlink-для-ios-неавтоматическое-но-бесплатное-решение) (бесплатно)~~ приложение было удалено из Appstore
 
 Так как сценарий настройки удалённый, любые изменения в списке сценариев синхронизируются с программой на ПК, приложением на Android или с расширением для браузера **(кроме персонально указанных инструкций)**.
 
@@ -60,14 +60,16 @@ TODO: дописать и отладить работу SS на Linux
 
 Ссылка на CONF файл: [https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions_shadowrocket.conf](https://raw.githubusercontent.com/An-Eugene/ss_conditions/main/ss_conditions_shadowrocket.conf)
 
-### Shadowlink для iOS (неавтоматическое, но бесплатное решение)
-1. Установить [Shadowlink из AppStore](https://apps.apple.com/us/app/shadowlink-shadowsocks-proxy/id1439686518 "Shadowlink for iOS"). **Отказаться от всех навязываемых подписок и пробных периодов**: нас не интересуют сервера по умолчанию, мы добавляем собственную конфигурацию
-2. Прописать собственный сервер. К сожалению, в отличие от SS для ПК и Android, данное приложение требует QR код. Для этого просто загоняем ссылку вида ss://<base64_info> в [генератор QR кодов](https://webqr.com/create.html) на компьютере, а потом сканируем с айфона конфигурацию
-3. Заходим в Proxy Rule, импортируем CONF файл конфигурации
+### ~~Shadowlink для iOS (неавтоматическое, но бесплатное решение)~~
+~~1. Установить [Shadowlink из AppStore](https://apps.apple.com/us/app/shadowlink-shadowsocks-proxy/id1439686518 "Shadowlink for iOS"). **Отказаться от всех навязываемых подписок и пробных периодов**: нас не интересуют сервера по умолчанию, мы добавляем собственную конфигурацию~~
+~~2. Прописать собственный сервер. К сожалению, в отличие от SS для ПК и Android, данное приложение требует QR код. Для этого просто загоняем ссылку вида ss://<base64_info> в [генератор QR кодов](https://webqr.com/create.html) на компьютере, а потом сканируем с айфона конфигурацию~~
+~~3. Заходим в Proxy Rule, импортируем CONF файл конфигурации~~
 
-Ссылка на скачивание файла: https://an-eugene.github.io/ss_conditions/site/ss.html
+~~Ссылка на скачивание файла: https://an-eugene.github.io/ss_conditions/site/ss.html~~
 
-**Внимание**: ввиду ограничений платформы, файл настройки здесь не удалённый и требует ручного скачивания каждый раз, когда список обновляется
+~~**Внимание**: ввиду ограничений платформы, файл настройки здесь не удалённый и требует ручного скачивания каждый раз, когда список обновляется~~
+
+Приложение было удалено из Appstore, единственный оставшийся вариант - платное решение выше
 
 ## Proxy SwitchyOmega для браузера (устаревшее)
 1. Установить [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases/latest "Shadowsocks github repo") из официального репозитория и прописать сервер
