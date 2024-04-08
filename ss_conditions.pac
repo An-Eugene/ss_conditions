@@ -295,8 +295,8 @@ var __BLOCKEDSITES__ = [
   "*.yle.fi",
   "*.yummyanime.org",
   "*.zahav.ru",
+  "*.zeflix.online",
   "*.zerkalo.io",
-  "*.zetflix.online",
   "*.zona.media",
   "*.zomro.com"
 ];
