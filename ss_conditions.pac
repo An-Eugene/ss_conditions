@@ -191,6 +191,7 @@ var __BLOCKEDSITES__ = [
   "*.paperpaper.ru",
   "*.paperpaper.io",
   "*.patreon.com",
+  "*.pexels.com",
   "*.pixiv.net",
   "*.politiken.dk",
   "*.posle.media",
