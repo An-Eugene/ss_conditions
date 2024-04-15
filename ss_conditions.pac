@@ -194,6 +194,7 @@ var __BLOCKEDSITES__ = [
   "*.patreon.com",
   "*.pexels.com",
   "*.pixiv.net",
+  "*.platforma.international",
   "*.politiken.dk",
   "*.posle.media",
   "*.postimees.ee",
