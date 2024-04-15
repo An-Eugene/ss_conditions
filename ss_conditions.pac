@@ -29,6 +29,7 @@ var __BLOCKEDSITES__ = [
   "*.bbc.com",
   "*.bbci.co.uk",
   "*.bellingcat.com",
+  "*.bereg.io",
   "*.bild.de",
   "*.bing.com",
   "*.blackseanews.net",
