@@ -75,6 +75,7 @@ var __BLOCKEDSITES__ = [
   "*.exler.ru",
   "*.expres.online",
   "*.facebook.com",
+  "*.fanatical.com",
   "*.fapreactor.com",
   "*.fb.com",
   "*.fbcdn.net",
