@@ -13,6 +13,7 @@
 (?:^|\.)activatica\.org$
 (?:^|\.)adguard\.com$
 (?:^|\.)agents\.media$
+^aws\.amazon\.com$
 (?:^|\.)anime-portal\.ru$
 (?:^|\.)animedub\.ru$
 (?:^|\.)animego-online\.org$
@@ -95,6 +96,7 @@
 (?:^|\.)getsignal\.news$
 ^yt3\.ggpht\.com$
 (?:^|\.)githubcopilot\.com$
+(?:^|\.)godaddy\.com$
 ^aistudio\.google\.com$
 ^bard\.google\.com$
 ^gemini\.google\.com$
