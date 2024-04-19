@@ -66,6 +66,7 @@ var __BLOCKEDSITES__ = [
   "*.doxa.team",
   "*.dumskaya.net",
   "*.dw.com",
+  "*.ebookpdf.com",
   "*.echofm.online",
   "*.echokavkaza.com",
   "*.ej.ru",
