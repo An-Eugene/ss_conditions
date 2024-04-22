@@ -222,6 +222,7 @@ var __BLOCKEDSITES__ = [
   "*.rferl.org",
   "*.roar-review.com",
   "*.root-nation.com",
+  "*.rsf.org",
   "*.rule34.xxx",
   "*.rutor.info",
   "*.rutor.is",
