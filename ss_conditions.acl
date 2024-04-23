@@ -103,10 +103,12 @@
 ^apis\.google\.com$
 ^aistudio\.google\.com$
 ^bard\.google\.com$
+(?:^|\.)*\.clients6\.google\.com$
 ^gemini\.google\.com$
 ^news\.google\.com$
 ^play\.google\.com$
 (?:^|\.)google\.dev$
+(?:^|\.)googleapis\.com$
 (?:^|\.)grani\.ru$
 (?:^|\.)graty\.me$
 (?:^|\.)greenmangaming\.com$
