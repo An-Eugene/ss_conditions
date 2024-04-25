@@ -194,6 +194,7 @@ var __BLOCKEDSITES__ = [
   "*.oaiusercontent.com",
   "*.oculus.com",
   "*.odessa.online",
+  "*.onelogin.com",
   "*.openai.com",
   "*.openmedia.io",
   "*.opposition-news.com",
