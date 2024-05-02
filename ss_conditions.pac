@@ -12,6 +12,7 @@ var __BLOCKEDSITES__ = [
   "*.adguard.com",
   "*.agents.media",
   "*.agentura.ru",
+  "*.amnezia.org",
   "aws.amazon.com",
   "*.anime-portal.ru",
   "*.animedub.ru",
