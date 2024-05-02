@@ -162,6 +162,7 @@ var __BLOCKEDSITES__ = [
   "*.mediazona.ca",
   "*.medium.com",
   "*.meduza.io",
+  "*.memopzk.org",
   "*.memorialcenter.org",
   "*.merezha.co",
   "*.meta.com",
