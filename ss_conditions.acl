@@ -97,7 +97,7 @@
 (?:^|\.)furaffinity\.net$
 (?:^|\.)gagadget\.com$
 (?:^|\.)germania\.one$
-(?:^|\.)getoutline\.com$
+(?:^|\.)getoutline\.org$
 (?:^|\.)getsignal\.news$
 ^yt3\.ggpht\.com$
 (?:^|\.)githubcopilot\.com$
@@ -249,6 +249,7 @@
 (?:^|\.)scrolller\.com$
 (?:^|\.)semnasem\.org$
 (?:^|\.)severreal\.org$
+(?:^|\.)shadowsocks\.org$
 (?:^|\.)shikimori\.me$
 (?:^|\.)sibreal\.org$
 (?:^|\.)skat\.media$
