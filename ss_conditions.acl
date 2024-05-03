@@ -145,6 +145,7 @@
 (?:^|\.)korrespondent\.net$
 (?:^|\.)krymr\.com$
 (?:^|\.)kym-cdn\.com$
+(?:^|\.)lantern\.io$
 (?:^|\.)lentachel\.ru$
 (?:^|\.)leonidvolkov\.ru$
 (?:^|\.)libgen\.is$
@@ -220,12 +221,14 @@
 (?:^|\.)posle\.media$
 (?:^|\.)postimees\.ee$
 (?:^|\.)proekt\.media$
+(?:^|\.)proton\.me$
 (?:^|\.)provereno\.media$
 (?:^|\.)putin-killer\.com$
 (?:^|\.)quest\.com$
 (?:^|\.)quora\.com$
 (?:^|\.)radiosakharov\.org$
 (?:^|\.)realist\.online$
+(?:^|\.)redshieldvpn\.com$
 (?:^|\.)remove\.bg$
 (?:^|\.)rentry\.co$
 (?:^|\.)republic\.ru$
