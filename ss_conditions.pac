@@ -63,6 +63,7 @@ var __BLOCKEDSITES__ = [
   "*.delfi.lv",
   "*.dell.com",
   "*.dellcdn.com",
+  "*.digitalocean.com",
   "*.discours.io",
   "*.dnsstuff.com",
   "danbooru.donmai.us",
