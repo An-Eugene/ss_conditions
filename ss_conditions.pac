@@ -208,6 +208,7 @@ var __BLOCKEDSITES__ = [
   "*.ovd.cards",
   "*.ovd.info",
   "*.ovd.news",
+  "*.ovdinfo.legal",
   "*.ovdinfo.org",
   "*.ozodi.org",
   "*.pap.pl",
