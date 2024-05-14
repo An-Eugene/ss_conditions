@@ -226,6 +226,7 @@ var __BLOCKEDSITES__ = [
   "*.proekt.media",
   "*.proton.me",
   "*.provereno.media",
+  "*.psiphon.ca",
   "*.putin-killer.com",
   "*.quest.com",
   "*.quora.com",
