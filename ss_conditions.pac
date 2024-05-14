@@ -82,6 +82,7 @@ var __BLOCKEDSITES__ = [
   "*.eutrp.eu",
   "*.exler.ru",
   "*.expres.online",
+  "*.expressvpn.com",
   "*.facebook.com",
   "*.fanatical.com",
   "*.fapreactor.com",
