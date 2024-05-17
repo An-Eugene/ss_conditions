@@ -30,6 +30,7 @@ var __BLOCKEDSITES__ = [
   "*.azathabar.com",
   "*.azattyq.com",
   "*.bbc.com",
+  "*.bbc.co.uk",
   "*.bbci.co.uk",
   "*.bellingcat.com",
   "*.bereg.io",
