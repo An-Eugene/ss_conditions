@@ -239,6 +239,7 @@ var __BLOCKEDSITES__ = [
   "*.remove.bg",
   "*.rentry.co",
   "*.republic.ru",
+  "*.refactoring.guru",
   "*.rezka.ag",
   "*.rezonans.media",
   "*.rferl.org",
