@@ -29,6 +29,7 @@ var __BLOCKEDSITES__ = [
   "*.aussiedlerbote.de",
   "*.azathabar.com",
   "*.azattyq.com",
+  "*.backmarket.com",
   "*.barentsobserver.co",
   "*.bbc.com",
   "*.bbc.co.uk",
