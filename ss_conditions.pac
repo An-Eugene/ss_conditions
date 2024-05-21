@@ -165,6 +165,7 @@ var __BLOCKEDSITES__ = [
   "*.lolz.guru",
   "*.lostfilm.tv",
   "*.m.me",
+  "*.mailchimp.com",
   "*.mangahub.ru",
   "*.mangapoisk.com",
   "*.manticgames.com",
