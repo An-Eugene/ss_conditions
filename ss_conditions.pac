@@ -10,6 +10,7 @@ var __BLOCKEDSITES__ = [
   "*.acf.international",
   "*.activatica.org",
   "*.adguard.com",
+  "*.adobe.com",
   "*.agents.media",
   "*.agentura.ru",
   "*.amnezia.org",
