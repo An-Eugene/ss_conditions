@@ -325,6 +325,7 @@ var __BLOCKEDSITES__ = [
   "vesty.co.il",
   "*.voanews.com",
   "*.vot-tak.tv",
+  "*.vpngen.org",
   "*.vpnlove.me",
   "*.vynesimozg.com",
   "*.wdfiles.com",
