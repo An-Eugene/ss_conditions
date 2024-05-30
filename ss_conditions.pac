@@ -72,6 +72,7 @@ var __BLOCKEDSITES__ = [
   "*.digitalocean.com",
   "*.discours.io",
   "*.dnsstuff.com",
+  "*.docker.com",
   "danbooru.donmai.us",
   "*.dossier.center",
   "*.dovod.online",
