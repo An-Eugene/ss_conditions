@@ -42,6 +42,7 @@ var __BLOCKEDSITES__ = [
   "*.bild.de",
   "*.bing.com",
   "*.blackseanews.net",
+  "*.buymeacoffee.com",
   "*.canva.com",
   "*.carousell.sg",
   "*.cdninstagram.com",
