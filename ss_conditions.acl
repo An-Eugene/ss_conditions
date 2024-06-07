@@ -140,6 +140,7 @@
 (?:^|\.)intel\.com$
 (?:^|\.)is\.fi$
 (?:^|\.)istories\.media$
+(?:^|\.)itch\.io$
 (?:^|\.)itsmycity\.ru$
 (?:^|\.)jakpolak\.com$
 (?:^|\.)jauns\.lv$
@@ -284,7 +285,8 @@
 (?:^|\.)sotavision\.world$
 (?:^|\.)soundcloud\.com$
 (?:^|\.)spektr\.press$
-(?:^|\.)spotify\.com$
+^open\.spotify\.com$
+^accounts\.spotify\.com$
 (?:^|\.)sputnikipogrom\.com$
 (?:^|\.)strana\.news$
 (?:^|\.)strana\.today$
