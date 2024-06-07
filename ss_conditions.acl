@@ -285,8 +285,7 @@
 (?:^|\.)sotavision\.world$
 (?:^|\.)soundcloud\.com$
 (?:^|\.)spektr\.press$
-^open\.spotify\.com$
-^accounts\.spotify\.com$
+(?:^|\.)spotify\.com$
 (?:^|\.)sputnikipogrom\.com$
 (?:^|\.)strana\.news$
 (?:^|\.)strana\.today$
