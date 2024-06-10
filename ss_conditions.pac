@@ -233,6 +233,7 @@ var __BLOCKEDSITES__ = [
   "*.platforma.international",
   "*.polit.ru",
   "*.politiken.dk",
+  "*.politzek.org",
   "*.posle.media",
   "*.postimees.ee",
   "*.proekt.media",
