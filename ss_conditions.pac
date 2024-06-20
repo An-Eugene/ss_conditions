@@ -200,6 +200,7 @@ var __BLOCKEDSITES__ = [
   "*.newtimes.ru",
   "*.nhentai.net",
   "*.nhentai.to",
+  "*.nnm-club.me",
   "*.nnmclub.to",
   "*.notion.so",
   "*.novaya.no",
