@@ -434,6 +434,7 @@ var __BLOCKEDSITES__ = [
   "*.yle.fi",
   "*.yummyanime.org",
   "*.zahav.ru",
+  "*.zaodno.org",
   "*.zeflix.online",
   "*.zeit.de",
   "*.zerkalo.io",
