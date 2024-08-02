@@ -71,6 +71,7 @@ var __BLOCKEDSITES__ = [
   "*.colta.ru",
   "*.compromat.group",
   "*.compromat01.group",
+  "*.coollib.net",
   "*.copilot.cx",
   "*.crimeahrg.org",
   "*.crocoblock.com",
@@ -439,6 +440,7 @@ var __BLOCKEDSITES__ = [
   "*.zaodno.org",
   "*.zeflix.online",
   "*.zeit.de",
+  "*.zelenka.guru",
   "*.zerkalo.io",
   "*.zona.media",
   "*.zomro.com"
