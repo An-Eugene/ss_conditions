@@ -1,0 +1,2 @@
+proxy rule-set https://raw.githubusercontent.com/An-Eugene/ss_conditions/furios-test/vless_conditions.conf
+direct all
