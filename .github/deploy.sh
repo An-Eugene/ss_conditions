@@ -54,4 +54,18 @@ for line in "${lines[@]}"; do
     fi
     echo "$transformed_line" >> ../ss_conditions.conf
 done
+
+# parse rules_proxy and make .CONF file (Furious syntax)
+echo -n "" > ../ss_conditions.conf
+mapfile -t lines < ../rules/rules_proxy
+for line in "${lines[@]}"; do
+    if [[ $line == *.*.*.* && ${line:0:2} != '*.' ]]; then
+        transformed_line="proxy ip-cidr $line"
+    elif [[ $line == '*.'* ]]; then
+        transformed_line="proxy domain-suffix ${line:2}"
+    else
+        transformed_line="proxy domain-suffix $line"
+    fi
+    echo "$transformed_line" >> ../ss_conditions.conf
+done
 # echo "FINAL,DIRECT" >> ../ss_conditions.conf
