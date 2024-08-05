@@ -56,7 +56,7 @@ for line in "${lines[@]}"; do
 done
 
 # parse rules_proxy and make .CONF file (Furious syntax)
-echo -n "" > ../ss_conditions.conf
+echo -n "" > ../vless_conditions.conf
 mapfile -t lines < ../rules/rules_proxy
 for line in "${lines[@]}"; do
     if [[ $line == *.*.*.* && ${line:0:2} != '*.' ]]; then
@@ -66,6 +66,6 @@ for line in "${lines[@]}"; do
     else
         transformed_line="proxy domain-suffix $line"
     fi
-    echo "$transformed_line" >> ../ss_conditions.conf
+    echo "$transformed_line" >> ../vless_conditions.conf
 done
 # echo "FINAL,DIRECT" >> ../ss_conditions.conf
