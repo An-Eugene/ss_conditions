@@ -1,0 +1,17 @@
+{
+  "routing": {
+    "rules": [
+      {
+        "type": "field",
+        "domain": [
+          "2ip.ua"
+        ],
+        "outboundTag": "proxy"
+      },
+      {
+        "type": "field",
+        "port": "1-65535",
+        "outboundTag": "direct"
+    ]
+  }
+}
