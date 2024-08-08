@@ -437,6 +437,7 @@ var __BLOCKEDSITES__ = [
   "*.yaoilib.me",
   "*.yle.fi",
   "*.youtube.com",
+  "*.ytimg.com",
   "*.yummyanime.org",
   "*.zahav.ru",
   "*.zaodno.org",
