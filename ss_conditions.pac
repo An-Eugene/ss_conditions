@@ -309,6 +309,7 @@ var __BLOCKEDSITES__ = [
   "*.postimees.ee",
   "*.proekt.media",
   "*.propastop.org",
+  "*.prostovpn.org",
   "*.proton.me",
   "*.protothema.gr",
   "*.protv.ro",
