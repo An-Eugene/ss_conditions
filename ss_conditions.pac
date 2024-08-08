@@ -280,6 +280,7 @@ var __BLOCKEDSITES__ = [
   "*.onelogin.com",
   "*.openai.com",
   "*.openmedia.io",
+  "*.openwrt.org",
   "*.opposition-news.com",
   "*.orf.at",
   "*.osti.gov",
