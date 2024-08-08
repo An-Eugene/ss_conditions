@@ -269,6 +269,7 @@ var __BLOCKEDSITES__ = [
   "*.novayapolsha.pl",
   "*.novyny.live",
   "*.nrc.nl",
+  "*.ntc.party",
   "*.nyaa.si",
   "*.oaistatic.com",
   "*.oaiusercontent.com",
