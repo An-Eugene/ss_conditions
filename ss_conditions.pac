@@ -291,6 +291,7 @@ var __BLOCKEDSITES__ = [
   "*.ovd.news",
   "*.ovdinfo.legal",
   "*.ovdinfo.org",
+  "*.ozi-ru.org",
   "*.ozodi.org",
   "*.pap.pl",
   "*.paperpaper.ru",
