@@ -3,7 +3,6 @@ name: Update all files
 on:
   push:
     paths:
-      - 'rules/rules_direct'
       - 'rules/rules_proxy'
 
 jobs:
