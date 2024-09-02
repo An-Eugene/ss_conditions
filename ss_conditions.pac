@@ -416,6 +416,7 @@ var __BLOCKEDSITES__ = [
   "*.twitter.com",
   "*.unian.info",
   "*.unian.net",
+  "*.upskillstutor.com",
   "*.usa.one",
   "*.verstka.media",
   "*.verpex.com",
