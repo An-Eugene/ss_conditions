@@ -84,6 +84,7 @@
 (?:^|\.)cyprus-mail\.com$
 (?:^|\.)cyprustimes\.com$
 (?:^|\.)cyxymu\.info$
+(?:^|\.)daringerdes\.com$
 (?:^|\.)daz3d\.com$
 (?:^|\.)deepstatemap\.live$
 (?:^|\.)delfi\.ee$
@@ -137,6 +138,7 @@
 (?:^|\.)flibusta\.is$
 (?:^|\.)fonge\.org$
 (?:^|\.)fortanga\.org$
+(?:^|\.)forumfreerussia\.org$
 (?:^|\.)foxitsoftware\.com$
 (?:^|\.)freemedia\.io$
 (?:^|\.)freepng\.ru$
@@ -161,11 +163,13 @@
 (?:^|\.)grani\.ru$
 (?:^|\.)graty\.me$
 (?:^|\.)greenmangaming\.com$
+(?:^|\.)gulag\.cz$
 (?:^|\.)gulagu\.net$
 (?:^|\.)hdrezka\.ag$
 (?:^|\.)hentai\.name$
 (?:^|\.)hentaichan\.live$
 (?:^|\.)hide\.me$
+(?:^|\.)hit-vpn\.net$
 (?:^|\.)hochunaiti\.com$
 (?:^|\.)holod\.media$
 (?:^|\.)hostinger\.com$
@@ -173,6 +177,7 @@
 (?:^|\.)idelreal\.org$
 (?:^|\.)ikianime\.tv$
 (?:^|\.)iltalehti\.fi$
+(?:^|\.)in-fact\.org$
 ^independent\.com\.mt$
 (?:^|\.)independent\.ie$
 (?:^|\.)information\.dk$
@@ -235,6 +240,7 @@
 (?:^|\.)meduza\.io$
 (?:^|\.)megatv\.com$
 (?:^|\.)memopzk\.org$
+(?:^|\.)memorial-czechia\.cz$
 (?:^|\.)memorialcenter\.org$
 (?:^|\.)merezha\.co$
 (?:^|\.)meta\.com$
@@ -409,6 +415,7 @@
 (?:^|\.)top-fon\.com$
 (?:^|\.)torrentgalaxy\.to$
 (?:^|\.)torproject\.org$
+(?:^|\.)turantoday\.com$
 (?:^|\.)tv2\.today$
 (?:^|\.)tvfreedom\.io$
 (?:^|\.)tvmnews\.mt$
