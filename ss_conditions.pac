@@ -313,6 +313,7 @@ var __BLOCKEDSITES__ = [
   "*.politiken.dk",
   "politis.com.cy",
   "*.politzek.org",
+  "*.pornolab.net",
   "*.posle.media",
   "*.postimees.ee",
   "*.proekt.media",
