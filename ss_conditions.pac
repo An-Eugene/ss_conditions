@@ -69,6 +69,7 @@ var __BLOCKEDSITES__ = [
   "*.chess.com",
   "*.claude.ai",
   "*.cnews.fr",
+  "*.coda.io",
   "*.colta.ru",
   "*.compromat.group",
   "*.compromat01.group",
