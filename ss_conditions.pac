@@ -334,6 +334,7 @@ var __BLOCKEDSITES__ = [
   "*.rai.it",
   "*.rainews.it",
   "*.realist.online",
+  "*.redis.io",
   "*.redshieldvpn.com",
   "*.refactoring.guru",
   "*.remove.bg",
