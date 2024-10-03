@@ -317,6 +317,7 @@ var __BLOCKEDSITES__ = [
   "*.pornolab.net",
   "*.posle.media",
   "*.postimees.ee",
+  "*.primevideo.com",
   "*.proekt.media",
   "*.propastop.org",
   "*.prostovpn.org",
