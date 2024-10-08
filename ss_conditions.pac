@@ -431,6 +431,7 @@ var __BLOCKEDSITES__ = [
   "*.themegrill.com",
   "*.thenewtab.io",
   "*.thepiratebay.org",
+  "*.tidal.com",
   "*.timesofmalta.com",
   "*.tjournal.ru",
   "*.top-fon.com",
