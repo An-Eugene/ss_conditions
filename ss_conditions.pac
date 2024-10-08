@@ -111,6 +111,7 @@ var __BLOCKEDSITES__ = [
   "*.discord.tools",
   "*.discordapp.com",
   "*.discordapp.net",
+  "*.discordcdn.com",
   "*.discordmerch.com",
   "*.discordpartygames.com",
   "*.discord-activities.com",
