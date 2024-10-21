@@ -393,6 +393,7 @@ var __BLOCKEDSITES__ = [
   "*.sibreal.org",
   "*.skai.gr",
   "*.skat.media",
+  "*.sketchup.com",
   "*.slavicsac.com",
   "*.smartasset.com",
   "*.sme.sk",
