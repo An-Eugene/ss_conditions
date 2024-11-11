@@ -272,6 +272,7 @@ var __BLOCKEDSITES__ = [
   "*.mignews.com",
   "*.miniplay.com",
   "*.mintmanga.live",
+  "*.monotype.com",
   "*.moscow-post.su",
   "*.myfonts.com",
   "*.myrotvorets.center",
