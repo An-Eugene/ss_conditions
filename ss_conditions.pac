@@ -131,6 +131,7 @@ var __BLOCKEDSITES__ = [
   "*.ebookpdf.com",
   "*.echofm.online",
   "*.echokavkaza.com",
+  "*.edx.org",
   "*.efe.com",
   "*.ej.ru",
   "*.elmundo.es",
