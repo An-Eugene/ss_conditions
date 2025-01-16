@@ -31,6 +31,9 @@ var __BLOCKEDSITES__ = [
   "*.animego.today",
   "*.animelib.me",
   "*.animevost.tv",
+  "*.annas-archive.gs",
+  "*.annas-archive.org",
+  "*.annas-archive.se",
   "*.antiwar.in",
   "*.antiwarcommittee.info",
   "*.apollo.lv",
@@ -172,6 +175,7 @@ var __BLOCKEDSITES__ = [
   "*.getsignal.news",
   "yt3.ggpht.com",
   "*.githubcopilot.com",
+  "*.go-to-library.sk",
   "*.godaddy.com",
   "apis.google.com",
   "aistudio.google.com",
@@ -493,6 +497,7 @@ var __BLOCKEDSITES__ = [
   "*.zeit.de",
   "*.zelenka.guru",
   "*.zerkalo.io",
+  "*.z-library.sk",
   "*.zona.media",
   "*.zomro.com"
 ];

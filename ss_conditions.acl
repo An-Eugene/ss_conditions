@@ -33,6 +33,9 @@
 (?:^|\.)animego\.today$
 (?:^|\.)animelib\.me$
 (?:^|\.)animevost\.tv$
+(?:^|\.)annas-archive\.gs$
+(?:^|\.)annas-archive\.org$
+(?:^|\.)annas-archive\.se$
 (?:^|\.)antiwar\.in$
 (?:^|\.)antiwarcommittee\.info$
 (?:^|\.)apollo\.lv$
@@ -174,6 +177,7 @@
 (?:^|\.)getsignal\.news$
 ^yt3\.ggpht\.com$
 (?:^|\.)githubcopilot\.com$
+(?:^|\.)go-to-library\.sk$
 (?:^|\.)godaddy\.com$
 ^apis\.google\.com$
 ^aistudio\.google\.com$
@@ -495,6 +499,7 @@
 (?:^|\.)zeit\.de$
 (?:^|\.)zelenka\.guru$
 (?:^|\.)zerkalo\.io$
+(?:^|\.)z-library\.sk$
 (?:^|\.)zona\.media$
 (?:^|\.)zomro\.com$
 
