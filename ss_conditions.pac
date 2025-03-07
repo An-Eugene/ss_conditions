@@ -488,6 +488,7 @@ var __BLOCKEDSITES__ = [
   "*.yande.re",
   "*.yaoilib.me",
   "*.yle.fi",
+  "*.youtu.be",
   "*.youtube.com",
   "*.ytimg.com",
   "*.yummyanime.org",
