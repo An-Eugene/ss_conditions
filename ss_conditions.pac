@@ -21,6 +21,7 @@ var __BLOCKEDSITES__ = [
   "*.agenceurope.eu",
   "*.agents.media",
   "*.agentura.ru",
+  "*.ajay.app",
   "*.amedia.vip",
   "*.amnezia.org",
   "aws.amazon.com",
