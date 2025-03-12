@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'rules/rules_proxy'
+      - 'rules/rules_proxy_lite'
 
 jobs:
   execute_script:
