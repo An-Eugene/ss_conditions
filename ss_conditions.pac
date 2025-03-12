@@ -174,7 +174,7 @@ var __BLOCKEDSITES__ = [
   "*.germania.one",
   "*.getoutline.org",
   "*.getsignal.news",
-  "yt3.ggpht.com",
+  "*.ggpht.com",
   "*.githubcopilot.com",
   "*.go-to-library.sk",
   "*.godaddy.com",
