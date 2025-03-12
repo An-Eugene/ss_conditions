@@ -18,8 +18,7 @@ echo "];" >> ../ss_conditions.pac
 
 cat ../templates/ss_conditions_template.pac >> ../ss_conditions.pac
 
-# parse both rules_proxy and rules_direct and make ACL file
-# UPD: commented rules_direct due to support drop
+# parse rules_proxy and make ACL file
 echo "[bypass_all]" > ../ss_conditions.acl
 echo "" >> ../ss_conditions.acl
 echo "[proxy_list]" >> ../ss_conditions.acl
@@ -39,6 +38,28 @@ for line in "${lines[@]}"; do
 done
 
 echo "" >> ../ss_conditions.acl
+
+
+# parse rules_proxy_lite and make ACL file for lite version
+echo "[bypass_all]" > ../ss_conditions_lite.acl
+echo "" >> ../ss_conditions_lite.acl
+echo "[proxy_list]" >> ../ss_conditions_lite.acl
+
+mapfile -t lines < ../rules/rules_proxy_lite
+for line in "${lines[@]}"; do
+    if [[ $line == *.*.*.* && ${line:0:2} != '*.' ]]; then
+        transformed_line="$line"
+    elif [[ $line == *.*.* && ${line:0:2} != '*.' ]]; then
+        transformed_line="^${line//./\\.}$"
+    elif [[ $line == *.* ]]; then
+        transformed_line="(?:^|\\.)${line//./\\.}$"
+    else
+        transformed_line="$line"
+    fi
+    echo "$transformed_line" >> ../ss_conditions_lite.acl
+done
+
+echo "" >> ../ss_conditions_lite.acl
 
 
 # parse rules_proxy and make .CONF file (default firewall / Shadowlink / Clash syntax)
