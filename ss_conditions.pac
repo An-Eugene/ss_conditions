@@ -176,6 +176,7 @@ var __BLOCKEDSITES__ = [
   "*.getsignal.news",
   "*.ggpht.com",
   "*.githubcopilot.com",
+  "*.glasnaya.org",
   "*.go-to-library.sk",
   "*.godaddy.com",
   "apis.google.com",
