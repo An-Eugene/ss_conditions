@@ -475,6 +475,7 @@ var __BLOCKEDSITES__ = [
   "*.voanews.com",
   "*.vot-tak.tv",
   "*.vpngen.org",
+  "*.vpnguild.org",
   "*.vpnlove.me",
   "*.vynesimozg.com",
   "*.wdfiles.com",
