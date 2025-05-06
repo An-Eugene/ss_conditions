@@ -433,6 +433,7 @@ var __BLOCKEDSITES__ = [
   "*.svtv.org",
   "*.syg.ma",
   "*.symfony.com",
+  "*.symfonycasts.com",
   "*.t.co",
   "*.t-ru.org",
   "*.tayga.info",
