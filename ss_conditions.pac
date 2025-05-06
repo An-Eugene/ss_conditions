@@ -86,6 +86,8 @@ var __BLOCKEDSITES__ = [
   "*.crocoblock.com",
   "*.cropp.com",
   "*.currenttime.tv",
+  "*.cursor.com",
+  "*.cursor.sh",
   "*.cvedetails.com",
   "*.cyprus-mail.com",
   "*.cyprustimes.com",
