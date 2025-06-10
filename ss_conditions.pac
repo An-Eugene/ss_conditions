@@ -190,6 +190,7 @@ var __BLOCKEDSITES__ = [
   "play.google.com",
   "*.google.dev",
   "*.googleapis.com",
+  "*.googleusercontent.com",
   "*.googlevideo.com",
   "*.grani.ru",
   "*.graty.me",
