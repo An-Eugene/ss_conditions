@@ -87,6 +87,7 @@
 ^play\.google\.com$
 (?:^|\.)google\.dev$
 (?:^|\.)googleapis\.com$
+(?:^|\.)googleusercontent\.com$
 (?:^|\.)googlevideo\.com$
 (?:^|\.)gulagu\.net$
 (?:^|\.)hdrezka\.ag$
