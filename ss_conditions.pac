@@ -459,6 +459,7 @@ var __BLOCKEDSITES__ = [
   "*.top-fon.com",
   "*.torrentgalaxy.to",
   "*.torproject.org",
+  "*.trace.moe",
   "*.turantoday.com",
   "*.tv2.today",
   "*.tvfreedom.io",
