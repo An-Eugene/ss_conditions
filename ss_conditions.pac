@@ -155,6 +155,7 @@ var __BLOCKEDSITES__ = [
   "*.eutrp.eu",
   "*.exler.ru",
   "*.expres.online",
+  "*.expressionengine.com",
   "*.expresso.pt",
   "*.expressvpn.com",
   "*.facebook.com",
