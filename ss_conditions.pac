@@ -410,6 +410,7 @@ var __BLOCKEDSITES__ = [
   "*.shadowsocks.org",
   "*.shikimori.me",
   "*.sibreal.org",
+  "*.signal.org",
   "*.skai.gr",
   "*.skat.media",
   "*.sketchup.com",
