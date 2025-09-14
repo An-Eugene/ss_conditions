@@ -221,6 +221,7 @@ var __BLOCKEDSITES__ = [
   "*.is.fi",
   "*.istories.media",
   "*.itch.io",
+  "*.itch.zone",
   "*.itsmycity.ru",
   "*.jakpolak.com",
   "*.jauns.lv",
