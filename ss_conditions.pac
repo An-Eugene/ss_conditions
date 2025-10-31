@@ -292,6 +292,7 @@ var __BLOCKEDSITES__ = [
   "*.mintmanga.live",
   "*.monotype.com",
   "*.moscow-post.su",
+  "*.myanimelist.net",
   "*.myfonts.com",
   "*.myrotvorets.center",
   "echo.msk.ru",
