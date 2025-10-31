@@ -86,6 +86,7 @@ var __BLOCKEDSITES__ = [
   "*.crimeahrg.org",
   "*.crocoblock.com",
   "*.cropp.com",
+  "*.crunchyroll.com",
   "*.currenttime.tv",
   "*.cursor.com",
   "*.cursor.sh",
