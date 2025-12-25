@@ -189,6 +189,7 @@ var __BLOCKEDSITES__ = [
   "bard.google.com",
   "*.clients6.google.com",
   "gemini.google.com",
+  "meet.google.com",
   "news.google.com",
   "play.google.com",
   "*.google.dev",
