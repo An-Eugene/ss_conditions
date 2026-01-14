@@ -45,6 +45,7 @@
 (?:^|\.)appspot\.com$
 (?:^|\.)arbat\.media$
 (?:^|\.)archiveofourown\.org$
+(?:^|\.)arduino\.cc$
 (?:^|\.)arte\.tv$
 (?:^|\.)aussiedlerbote\.de$
 (?:^|\.)azathabar\.com$
@@ -438,6 +439,7 @@
 (?:^|\.)spiegel\.de$
 (?:^|\.)spotify\.com$
 (?:^|\.)sputnikipogrom\.com$
+(?:^|\.)st\.com$
 (?:^|\.)stirileprotv\.ro$
 (?:^|\.)strana\.news$
 (?:^|\.)strana\.today$
