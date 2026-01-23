@@ -28,6 +28,7 @@
 (?:^|\.)amedia\.vip$
 (?:^|\.)amnezia\.org$
 ^aws\.amazon\.com$
+(?:^|\.)amazonaws\.com$
 (?:^|\.)anime-portal\.ru$
 (?:^|\.)animedub\.ru$
 (?:^|\.)animego-online\.org$
@@ -124,6 +125,7 @@
 (?:^|\.)discord\.store$
 (?:^|\.)discord\.tools$
 (?:^|\.)discordapp\.com$
+(?:^|\.)discordapp\.io$
 (?:^|\.)discordapp\.net$
 (?:^|\.)discordcdn\.com$
 (?:^|\.)discordmerch\.com$
@@ -131,6 +133,7 @@
 (?:^|\.)discord-activities\.com$
 (?:^|\.)discordactivities\.com$
 (?:^|\.)discordsays\.com$
+(?:^|\.)discordstatus\.com$
 (?:^|\.)discours\.io$
 (?:^|\.)dnsstuff\.com$
 (?:^|\.)docker\.com$
