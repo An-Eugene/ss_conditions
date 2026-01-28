@@ -39,6 +39,7 @@ var __BLOCKEDSITES__ = [
   "*.annas-archive.se",
   "*.antiwar.in",
   "*.antiwarcommittee.info",
+  "*.anthropic.com",
   "*.apollo.lv",
   "*.appleinsider.ru",
   "*.appspot.com",
